@@ -1,0 +1,151 @@
+{ "data":[
+	{
+		"numero": 5,
+		"equipo": "Argelite",
+		"marca": [
+			"Fiat",
+			"Renault"
+		],
+		"descripcion-modelos": [
+			"FIAT TIPO Con Motores 1.4 y 1.6 - RENAULT 9, 11, 12, 21 y TRAFFIC con Escobas."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "ARGELITE-URUGUAY 12V."
+	},{
+		"numero": 50,
+		"equipo": "Argelite",
+		"marca": [
+			"DODGE"
+		],
+		"descripcion-modelos": [
+			"DODGE Camion 8 Cilindros, D100, 400, 700 y 900.",
+			"3 Campos Planchuelas y 1 Auxiliar.",
+			"Código 9, 001, 453, 474, 203, 01."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "ARGELITE-WAPSA 12V."
+	},{
+		"numero": 510,
+		"equipo": "Bosch",
+		"marca": [
+			"ALFA ROMEO",
+			"BMW"
+		],
+		"descripcion-modelos": [
+			"ALFA ROMEO - BMW largo.",
+			"Código 001, 311, 42 con escobillas."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 520,
+		"equipo": "Bosch",
+		"marca": [
+			"AUTO UNION"
+		],
+		"descripcion-modelos": [
+			"AUTO UNION"
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 6V."
+	},{
+		"numero": 530,
+		"equipo": "Bosch",
+		"marca": [
+			"AUTO UNION",
+			"OPEL"
+		],
+		"descripcion-modelos": [
+			"AUTO UNION - OPEL K 180"
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 540,
+		"equipo": "Bosch",
+		"marca": [
+			"BORGWARD"
+		],
+		"descripcion-modelos": [
+			"BORGWARD 2.5"
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 550,
+		"equipo": "Bosch",
+		"marca": [
+			"BORGWARD"
+		],
+		"descripcion-modelos": [
+			"BORGWARD 2.5 Reformada"
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 24V."
+	},{
+		"numero": 560,
+		"equipo": "Bosch",
+		"marca": [
+			"BMW"
+		],
+		"descripcion-modelos": [
+			"BMW Código Corto"
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 570,
+		"equipo": "Bosch",
+		"marca": [
+			"CHEVROLET",
+			"DODGE",
+			"FORD",
+			"JEEP"
+		],
+		"descripcion-modelos": [
+			"CHEVETTE Modelo 70 al 81 GM VW - Camiones DODGE 1800 - FORD Pick Up F75 - TRUCKS JEEP MAVERICK 4 y 6 Cilindros."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 580,
+		"equipo": "Bosch",
+		"marca": [
+			"CHEVROLET"
+		],
+		"descripcion-modelos": [
+			"CHEVETTE DIESEL."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 12V."
+	},{
+		"numero": 590,
+		"equipo": "Bosch",
+		"marca": [
+			"SCANIA",
+			"VOLVO",
+			"FIAT"
+		],
+		"descripcion-modelos": [
+			"SCANIA VABIS - VOLVO - FIAT - MWM - MBB - CATERPILLAR - ATLAS - COPCO - CUMMINS - KOMATSU - MAXION - JI CASE - DELCO REMIS - HEINCHEL Con equipo AL/FKB Largo 5,5 KW. 6/24",
+			"Código. 20004 125 - 006. JA.",
+			"Con Auxiliares internos."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 24V."
+	},{
+		"numero": 5000,
+		"equipo": "Bosch",
+		"marca": [
+			"SCANIA",
+			"FIAT IVECO"
+		],
+		"descripcion-modelos": [
+			"SCANIA VARIS TURBO BR 116 FIAT IVECO - Camiones 160 y 21.",
+			"Codigo 2 004 125 078 Con equipo AL/FKB Corto.",
+			"Con Auxiliares internos."
+		],
+		"descripcion-campos": "4 Campos Coils",
+		"descripcion-equipo": "BOSCH 24V."
+	}
+]}
