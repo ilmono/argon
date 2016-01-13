@@ -1,0 +1,290 @@
+[
+  {
+    "numero":"",
+    "letra":"ASX 11",
+    "descripcion":"LUCAS INDIEL.AN-115.MERCEDES BENZ.PERKINS 12 VDC",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"ASX 11 E",
+    "descripcion":"LUCAS INDIEL.AN-115.MERCEDES BENZ.PERKINS 12 VDC",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"ASX 9",
+    "descripcion":"LUCAS INDIEL.AN-115.MERCEDES BENZ.PERKINS 24 VDC",
+    "voltaje":"24Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"    CT",
+    "letra":"USX 21-22 ",
+    "descripcion":"RENAULT 9 12 Y 18 -PEUGEOT- CITROEN- FIAT 128,GAREF.",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"GAREF-INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"BSX 75",
+    "descripcion":"BOSCH-ESCORT 1.6-1.8- RENAULT 9 FIAT 147,QUANTUM,FIORINO,SENDA- VW GOL,PASSAT,SAVEIRO.",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"BOSCH",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"FJ 168L",
+    "descripcion":"51000-51010-51020-51030",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"BSX",
+    "letra":"433/729",
+    "descripcion":"MC.BZ-1316-1516-2016-2116 L-608 D",
+    "voltaje":"12/24Volts",
+    "campos":"10-JUEGOS ",
+    "equipo":"BOSCH",
+    "codigo":""
+  },
+  {
+    "numero":"BSX",
+    "letra":"157-158",
+    "descripcion":"FIAT DUNA DIESEL COMPLETO CON TERMINAL",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"BOSH",
+    "codigo":"158"
+  },
+  {
+    "numero":"",
+    "letra":"LASX 91-92",
+    "descripcion":" FORD F100 F150, F1000, F4000, C/MOTOR MWM LUCAS 12VDC",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 36",
+    "descripcion":"LUCAS INDIEL M50 12VDC",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 43-44",
+    "descripcion":"TAUNUS-FALCON-F100 C/TERMINAL",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"EX 16-56",
+    "descripcion":"IKA-FORD-CHRYSLER",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"LARGO",
+    "letra":"JF 168",
+    "descripcion":"MAXION",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"USX 21-22",
+    "descripcion":"RENAULT 9 12 Y 18 -PEUGEOT- CITROEN- FIAT 128,GAREF.",
+    "voltaje":"12Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"GAREF-INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"USX 60-21",
+    "descripcion":"VW CARAT-ESCORT-TRIA",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"CHRYSLER",
+    "codigo":"0"
+  },
+  {
+    "numero":"",
+    "letra":"LASX 43-48       ",
+    "descripcion":"FORD FRONTAL NUEVO ",
+    "voltaje":"12/24 volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"BSX 6-7",
+    "descripcion":"MERCEDES BENZ BRASILERO 2CABLES",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"BOSCH",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"ASX 21",
+    "descripcion":"MAXION-FORD CUMMINS M-100",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"JSX 31-32",
+    "descripcion":"FIAT DUCATTO",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"MASX 341",
+    "descripcion":"ESCOBILLA DE ARRANQUE FIAT DUCATO",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"CHRISLER",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 40-41",
+    "descripcion":"INDIEL-FIAT UNO - DUNA. RENAULT TRAFIC-11. FORD ESCORT-SIERRA.",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"     GI",
+    "letra":"LASX 40-41 A",
+    "descripcion":"INDIEL-FIAT UNO - DUNA. RENAULT TRAFIC-11. FORD ESCORT-SIERRA.",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 80-81",
+    "descripcion":"INDIEL CON REDUCCIÓN",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 43",
+    "descripcion":"INDIEL FIAT-TORINO S/TERMINAL M100 FRONTAL-FORD",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"213/13",
+    "descripcion":"FORD  MWM BRASILERO ",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"LASX 43-46",
+    "descripcion":"IKA-TORINO",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"",
+    "codigo":""
+  },
+  {
+    "numero":"      D",
+    "letra":"EX 16-56",
+    "descripcion":"IKA -FORD-CHRYSLER- DIESEL",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"USX 59-60",
+    "descripcion":"FIAT-PEUGEOT-DODGE 1500",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"CHRYSLER",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"213/09",
+    "descripcion":"WAPSA-AGRALE",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"INDIEL",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"FNSX 6-7",
+    "descripcion":"SCANIA P93-NISSAN-YANMAR-ISUZU-DATSUN",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"NISSAN-DATSUN",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"JSX 35-36",
+    "descripcion":"ESCOBILLA DE ARRANQUE FIAT / RENAULT",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"MARELLI",
+    "codigo":""
+  },
+  {
+    "numero":"",
+    "letra":"JSX 35-36",
+    "descripcion":"ESCOBILLA DE ARRANQUE FIAT / RENAULT",
+    "voltaje":"12 Volts",
+    "campos":"10-JUEGOS",
+    "equipo":"MARELLI",
+    "codigo":""
+  }
+]
