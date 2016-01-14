@@ -44,6 +44,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
                 </button>
                 <a href="#page-top">
                     <img src="img/argon-logo.png">
@@ -58,6 +59,9 @@
                     </li>
                     <li class="page-scroll">
                         <a href="#portfolio">¿Quienes Somos?</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#products">Productos</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">Novedades</a>
