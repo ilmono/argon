@@ -168,6 +168,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+    background-color: #233140;
 }
 
 section {
@@ -456,4 +457,9 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+#products{
+    color: #fff;
+    background-color: #2c3e50;
 }
