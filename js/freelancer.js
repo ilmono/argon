@@ -35,3 +35,25 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(document).ready(function() {
+    // init Isotope
+    $('.grid').isotope({
+        itemSelector: '.grid-item',
+        layoutMode: 'masonry',
+        masonry: {
+            columnWidth: 0
+        },
+        cellsByRow: {
+            columnWidth: 220,
+            rowHeight: 220
+        },
+        masonryHorizontal: {
+            rowHeight: 110
+        },
+        cellsByColumn: {
+            columnWidth: 220,
+            rowHeight: 220
+        }
+    });
+});

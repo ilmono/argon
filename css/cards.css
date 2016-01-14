@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300);
+
+
+.fa {
+    font-size: 20px;
+}
+
+.fa-info {
+    color: white;
+}
+
+.card {
+    width: 220px;
+    /*height: 440px;*/
+    max-width: 330px;
+    /*position: relative;*/
+    float: left;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,0.25);
+    margin: 5px;
+    background-color: #fff;
+}
+
+.card-number {
+    padding: 10px;
+    color: white;
+    background: #18bc9c;
+    font-weight: 300;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.detail {
+    color: #777;
+    padding: 20px;
+    line-height: 1.5;
+    font-size: 12px;
+}
+
+.detail-campos,
+.detail-equipo{
+    color: #777;
+    padding: 0 20px 10px 20px;
+    line-height: 1.5;
+    font-size: 12px;
+}
+
+.img-wrapper {
+    padding: 0;
+    position: relative;
+}
+
+.img-wrapper:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(62, 79, 178, .25);
+    width: 100%;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 200px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin: 0;
+    display: block;
+    position: relative;
+}

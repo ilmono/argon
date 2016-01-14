@@ -11,11 +11,12 @@
 
     <title>Campos AR-GON</title>
 
-    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/cards.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -124,6 +125,10 @@
 
     <!-- Productos Section -->
     <section id="products">
+        <?php
+            $json_file = file_get_contents("json/campos.json");
+            $campos = json_decode($json_file);
+        ?>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -131,7 +136,19 @@
                     <br />
                 </div>
             </div>
-            
+            <div class="row grid">
+                <?php foreach($campos as $campo){ ?>
+                    <div class="card grid-item">
+                        <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
+                        <div class="img-wrapper">
+                            <img src="img/default-card.png" alt="Just Background">
+                        </div>
+                        <p class="detail"><?php echo $campo->descripcion ?></p>
+                        <p class="detail-campos"><?php echo $campo->campos ?></p>
+                        <p class="detail-equipo">Eq: <?php echo $campo->equipo ?></p>
+                    </div>
+                <?php } ?>
+            </div>
         </div>
     </section>
 
