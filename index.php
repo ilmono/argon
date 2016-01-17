@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+header('Content-Type: text/html; charset=UTF-8');
+?>
 <head>
 
     <meta charset="utf-8">
@@ -32,7 +34,7 @@
 
 </head>
 
-<body id="page-top" class="index">
+<body id="page-top" class="index" enco>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -144,7 +146,7 @@
             </div>
             <div class="button-group filter-button-group">
                 <button class="btn btn-success btn-filtros" data-filter="*">Ver todos</button>
-                <button class="btn btn-success btn-filtros" data-filter=".carbon">Carbones</button>
+                <button class="btn btn-success btn-filtros" data-filter=".carbon">Escobillas</button>
                 <button class="btn btn-success btn-filtros" data-filter=".campo">Campos</button>
             </div>
             <div id="cards-wrapper">
