@@ -9,11 +9,25 @@
     color: white;
 }
 
+#cards-wrapper{
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.filter-button-group{
+    text-align: center;
+    background-color: #233140;
+    margin-bottom: 20px;
+}
+
+.btn-filtros{
+    margin: 20px;
+}
+
 .card {
-    width: 220px;
-    /*height: 440px;*/
+    width: 215px;
     max-width: 330px;
-    /*position: relative;*/
     float: left;
     box-shadow: 0 5px 15px 0 rgba(0,0,0,0.25);
     margin: 5px;

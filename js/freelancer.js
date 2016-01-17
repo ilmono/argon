@@ -38,7 +38,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 $(document).ready(function() {
     // init Isotope
-    $('.grid').isotope({
+    var $grid = $('.grid').isotope({
         itemSelector: '.grid-item',
         layoutMode: 'masonry',
         masonry: {
@@ -55,5 +55,10 @@ $(document).ready(function() {
             columnWidth: 220,
             rowHeight: 220
         }
+    });
+
+    $('.filter-button-group').on( 'click', 'button', function() {
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({ filter: filterValue });
     });
 });

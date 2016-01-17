@@ -132,6 +132,8 @@
         <?php
             $json_file = file_get_contents("json/campos.json");
             $campos = json_decode($json_file);
+            $json_file = file_get_contents("json/carbones.json");
+            $carbones = json_decode($json_file);
         ?>
         <div class="container">
             <div class="row">
@@ -140,18 +142,36 @@
                     <br />
                 </div>
             </div>
-            <div class="row grid">
-                <?php foreach($campos as $campo){ ?>
-                    <div class="card grid-item">
-                        <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
-                        <div class="img-wrapper">
-                            <img src="img/default-card.png" alt="Just Background">
+            <div class="button-group filter-button-group">
+                <button class="btn btn-success btn-filtros" data-filter="*">Ver todos</button>
+                <button class="btn btn-success btn-filtros" data-filter=".carbon">Carbones</button>
+                <button class="btn btn-success btn-filtros" data-filter=".campo">Campos</button>
+            </div>
+            <div id="cards-wrapper">
+                <div class="row grid">
+                    <?php foreach($campos as $campo){ ?>
+                        <div class="card grid-item element-item campo">
+                            <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
+                            <div class="img-wrapper">
+                                <img src="img/default-card.png" alt="Just Background">
+                            </div>
+                            <p class="detail"><?php echo $campo->descripcion ?></p>
+                            <p class="detail-campos"><?php echo $campo->campos ?></p>
+                            <p class="detail-equipo">Eq: <?php echo $campo->equipo ?></p>
                         </div>
-                        <p class="detail"><?php echo $campo->descripcion ?></p>
-                        <p class="detail-campos"><?php echo $campo->campos ?></p>
-                        <p class="detail-equipo">Eq: <?php echo $campo->equipo ?></p>
-                    </div>
-                <?php } ?>
+                    <?php } ?>
+                    <?php foreach($carbones as $carbon){ ?>
+                        <div class="card grid-item element-item carbon">
+                            <div class="card-number">N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></div>
+                            <div class="img-wrapper">
+                                <img src="img/default-card-2.png" alt="Just Background">
+                            </div>
+                            <p class="detail"><?php echo $carbon->descripcion ?></p>
+                            <p class="detail-campos"><?php echo $carbon->campos ?></p>
+                            <p class="detail-equipo">Eq: <?php echo $carbon->equipo ?></p>
+                        </div>
+                    <?php } ?>
+                </div>
             </div>
         </div>
     </section>
