@@ -57,8 +57,34 @@ $(document).ready(function() {
         }
     });
 
-    $('.filter-button-group').on( 'click', 'button', function() {
+    $('.filter-button-group').on( 'click', '.btn-filtros', function() {
         var filterValue = $(this).attr('data-filter');
+        console.log(filterValue);
+        $grid.isotope({ filter: filterValue });
+        switch (filterValue){
+            case '.campo':
+                $('#campo-filter').show();
+                break;
+            case '.carbon':
+                $('#campo-filter').hide();
+                break;
+            case '*':
+                $('#campo-filter').show();
+                break;
+        }
+    });
+
+    $('.filter-button-group').on( 'click', '.chk-filtros', function() {
+        var filterValue = '';
+        $('.chk-filtros:checked').each(function(){
+            if(filterValue === ''){
+                filterValue += '.' + $(this).attr('data-filter');
+            }else {
+                filterValue += ', .' + $(this).attr('data-filter');
+            }
+        });
+        console.log(filterValue);
         $grid.isotope({ filter: filterValue });
     });
+
 });

@@ -132,10 +132,33 @@ header('Content-Type: text/html; charset=UTF-8');
     <!-- Productos Section -->
     <section id="products">
         <?php
+
+            function makeArrayKeys($arrayProducts){
+                $arrayEquipos = array();
+                $arrayProduct = array();
+                $stringSearh = array(' ', 'ñ', 'Ñ', 'á', 'é', 'í', 'ó', 'ú', 'ü');
+                $stringReplace = array('', 'n', 'n', 'a', 'e', 'i', 'o', 'u', 'u');
+                foreach($arrayProducts as $key => $product){
+                    $tmp = str_replace($stringSearh,$stringReplace,strtolower($product->equipo));
+                    $arrayEquipos[$tmp] = $product->equipo;
+                    $arrayProduct[$key] = $product;
+                    $arrayProduct[$key]->filter = $tmp;
+                }
+                return array('keys' => $arrayEquipos, 'products' => $arrayProduct);
+            }
+
             $json_file = file_get_contents("json/campos.json");
-            $campos = json_decode($json_file);
+            $arrayProductsCampos = json_decode($json_file);
+            $tmp = makeArrayKeys($arrayProductsCampos);
+            $campos = $tmp['products'];
+            $camposFilter = $tmp['keys'];
+
             $json_file = file_get_contents("json/carbones.json");
-            $carbones = json_decode($json_file);
+            $arrayProductsCarbones = json_decode($json_file);
+            $tmp = makeArrayKeys($arrayProductsCarbones);
+            $carbones = $tmp['products'];
+            $carbonesFilter = $tmp['keys'];
+
         ?>
         <div class="container">
             <div class="row">
@@ -145,14 +168,23 @@ header('Content-Type: text/html; charset=UTF-8');
                 </div>
             </div>
             <div class="button-group filter-button-group">
-                <button class="btn btn-success btn-filtros" data-filter="*">Ver todos</button>
-                <button class="btn btn-success btn-filtros" data-filter=".carbon">Escobillas</button>
-                <button class="btn btn-success btn-filtros" data-filter=".campo">Campos</button>
+                <input class="btn-filtros" type="radio" name="filter" data-filter="*"> Ver todos
+                <input class="btn-filtros" type="radio" name="filter" data-filter=".carbon"> Escobillas
+                <input class="btn-filtros" type="radio" name="filter" data-filter=".campo"> Campos
+
+                <div id="campo-filter">
+                    Filtrar por Marca de Campo
+                    <div>
+                        <?php foreach($camposFilter as $key => $filter){ ?>
+                            <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?>
+                        <?php } ?>
+                    </div>
+                </div>
             </div>
             <div id="cards-wrapper">
                 <div class="row grid">
                     <?php foreach($campos as $campo){ ?>
-                        <div class="card grid-item element-item campo">
+                        <div class="card grid-item element-item campo <?php echo $campo->filter ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
                             <div class="img-wrapper">
                                 <img src="img/default-card.png" alt="Just Background">
@@ -163,7 +195,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         </div>
                     <?php } ?>
                     <?php foreach($carbones as $carbon){ ?>
-                        <div class="card grid-item element-item carbon">
+                        <div class="card grid-item element-item carbon <?php echo $carbon->filter ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></div>
                             <div class="img-wrapper">
                                 <img src="img/default-card-2.png" alt="Just Background">
