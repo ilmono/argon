@@ -187,7 +187,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         <div class="card grid-item element-item campo <?php echo $campo->filter ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
                             <div class="img-wrapper">
-                                <img src="img/default-card.png" alt="Just Background">
+                                <img src="img/cards/campos/<?php echo $campo->img ?>.png" alt="Just Background">
                             </div>
                             <p class="detail"><?php echo $campo->descripcion ?></p>
                             <p class="detail-campos"><?php echo $campo->campos ?></p>
