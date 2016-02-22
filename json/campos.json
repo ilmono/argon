@@ -1,4442 +1,4426 @@
 [
 	{
-		"img":"campo-1",
 		"numero":"5",
 		"descripcion":"FIAT TIPO con motores 1.4 y 1.6 - RENAULT 9-11-12-21 - TRAFIC con escobillas",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ARGELITE-URUGUAY"
+		"equipo":"ARGELITE-URUGUAY",
+		"img":"campo-1"
 	},
 	{
-		"img":"campo-2",
 		"numero":"50",
 		"descripcion":"DODGE camion 8 cilindros D100 - 400 - 700 - 900. 3 campos de planchuela y 1 auxiliar. C\u00f3digo 9.001.453.474 - 203 - 01.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ARGELITE-URUGUAY"
+		"equipo":"ARGELITE-URUGUAY",
+		"img":"campo-2"
 	},
 	{
-		"img":"campo-3",
 		"numero":"500",
 		"descripcion":"DODGE POLARA Modelo 57. 3 campos de planchuela y 1 auxiliar.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"AUTOLITE-CHRYSLER"
+		"equipo":"AUTOLITE-CHRYSLER",
+		"img":"campo-3"
 	},
 	{
-		"img":"campo-4",
 		"numero":"505",
 		"descripcion":"DODGE 57 (3 campos de planchuela y 1 auxiliar)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"CHRYSLER"
+		"equipo":"CHRYSLER",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-5",
 		"numero":"510",
 		"descripcion":"ALFA ROMEO - BMW LARGO. C\u00f3digo 001.311.042. Con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-4"
 	},
 	{
-		"img":"campo-6",
 		"numero":"515",
 		"descripcion":"ALFA ROMEO - BMW CORTO. Con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-7",
 		"numero":"520",
 		"descripcion":"AUTO UNI\u00d3N",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-5"
 	},
 	{
-		"img":"campo-8",
 		"numero":"530",
 		"descripcion":"AUTO UNI\u00d3N. Modelo OPEL K180",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-6"
 	},
 	{
-		"img":"campo-9",
 		"numero":"535",
 		"descripcion":"AUTO UNI\u00d3N",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-10",
 		"numero":"539",
 		"descripcion":"BPD PRINCIPAL",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-11",
 		"numero":"540",
 		"descripcion":"BORDWARD 2.5 Y MERCEDES BENZ 608",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-7"
 	},
 	{
-		"img":"campo-12",
 		"numero":"550",
 		"descripcion":"BORWARD 2.5 REFORMA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-8"
 	},
 	{
-		"img":"campo-13",
 		"numero":"560",
 		"descripcion":"BMW C\u00d3DIGO CORTO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-9"
 	},
 	{
-		"img":"campo-14",
 		"numero":"570",
 		"descripcion":"CHEVETTE Modelo 70 al 81 - GM VW - Camiones DODGE 1800 - FORD PICK UP F75 - TRUCKS JEEP MAVERICK 4 y 6 cilindros.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-10"
 	},
 	{
-		"img":"campo-15",
 		"numero":"580",
 		"descripcion":"CHEVETTE DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-11"
 	},
 	{
-		"img":"campo-16",
 		"numero":"590",
 		"descripcion":"SCANIA VABIS - VOLVO - FIAT MWM - MBB - CATERPILLAR - ATLAS - COPCO - CUMMINS - KOMATSU - MAXION - JI CASE DELCO REMY - HEINCHEL. Con equipo ALFKB LARGO 5,5 KW. Con auxiliares internos.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-12"
 	},
 	{
-		"img":"campo-17",
 		"numero":"5000",
 		"descripcion":"SCANIA VABIS TURBO BR 116 - FIAT IVECO - Camiones 160 y 21. Con equipo ALFKB CORTO. Con auxiliares internos.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-13"
 	},
 	{
-		"img":"campo-18",
 		"numero":"5010",
 		"descripcion":"SCANIA VABIS - VOLVO - CAMION FH 12 - FIAT IVECO. Camion EURO TRAKKER con motor 8210 42L-8210 42K 5,5KW. Con equipo ALFKB MEDIANO. Con auxiliares internos.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-14"
 	},
 	{
-		"img":"campo-19",
 		"numero":"5020",
 		"descripcion":"FIAT FERROCARRIL COCHE MOTOR. Con auxiliares internos.",
 		"voltaje":"72 Volts",
 		"campos":"6 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-15"
 	},
 	{
-		"img":"campo-20",
 		"numero":"5030",
 		"descripcion":"FIAT 150 TURBO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-16"
 	},
 	{
-		"img":"campo-21",
 		"numero":"5040",
 		"descripcion":"FIAT DUNA - SPAZIO - UNO - 147 - FORD GALAXY. Con salida pasacable y escobillas",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-17"
 	},
 	{
-		"img":"campo-22",
 		"numero":"5050",
 		"descripcion":"FIAT DUNA - SPAZIO - UNO - 147 - FORD GALAXY. Con salida pasacable y escobillas. REFORZADO para GNC",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-18"
 	},
 	{
-		"img":"campo-23",
 		"numero":"5060",
 		"descripcion":"FIAT DUNA - DUCATTO - 147 - SPAZIO. Con motor 1700 GASOLERO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-19"
 	},
 	{
-		"img":"campo-24",
 		"numero":"5070",
 		"descripcion":"FORD TRANSIT - PEUGEOT BOXER",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-20"
 	},
 	{
-		"img":"campo-25",
-		"numero":"5070",
-		"descripcion":"FORD TRANSIT - PEUGEOT BOXER",
-		"voltaje":"12 Volts",
-		"campos":"4 Campos",
-		"equipo":"BOSCH"
-	},
-	{
-		"img":"campo-26",
 		"numero":"5080",
 		"descripcion":"FORD TAUNUS y GRANADA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-29"
 	},
 	{
-		"img":"campo-27",
 		"numero":"5090",
 		"descripcion":"FORD ESCORT XR3 (ingles) - PEUGEOT 504 Modelo 80. Con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-30"
 	},
 	{
-		"img":"campo-28",
 		"numero":"5100",
 		"descripcion":"FORD OM. Con motor ALEMAN",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-21"
 	},
 	{
-		"img":"campo-29",
 		"numero":"5110",
 		"descripcion":"FORD OM. Con motor ALEMAN",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-22"
 	},
 	{
-		"img":"campo-30",
 		"numero":"5120",
 		"descripcion":"HONDA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-23"
 	},
 	{
-		"img":"campo-31",
 		"numero":"5125",
 		"descripcion":"HONDA GNC",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-32",
 		"numero":"5130",
 		"descripcion":"B.N.G. PRINCIPAL - MERCEDES BENZ 1112 - 1114 - 3500 - MAN - MAGIRUZ DEUTZ HANOMAG TRACTOR - FIAT SOMECA TRACTOR",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-24"
 	},
 	{
-		"img":"campo-33",
 		"numero":"5140",
 		"descripcion":"B.N.G. PRINCIPAL - MERCEDES BENZ 1112 - 1114 - 3500 - MAN (REFORZADO)",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-25"
 	},
 	{
-		"img":"campo-34",
 		"numero":"5150",
 		"descripcion":"MERCEDES BENZ JEEP. Con colector FRONTAL. C\u00f3digo 001.318.004",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-26"
 	},
 	{
-		"img":"campo-35",
 		"numero":"5160",
 		"descripcion":"MERCEDES BENZ KE. C\u00f3digo 000.142.011",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-27"
 	},
 	{
-		"img":"campo-36",
 		"numero":"5170",
 		"descripcion":"MERCEDEZ BENZ 220. Giro derecho",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-28"
 	},
 	{
-		"img":"default-card",
 		"numero":"5180",
 		"descripcion":"MERCEDES BENZ 280 TURBO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-31"
 	},
 	{
-		"img":"campo-38",
 		"numero":"5190",
 		"descripcion":"MERCEDES BENZ 220 DIESEL UNIMOG CORTO - OPEL ASCONAJE. Puente de 1 agujero.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-32"
 	},
 	{
-		"img":"campo-39",
 		"numero":"5200",
 		"descripcion":"MERCEDES BENZ Camiones SUPER TORKE del 1632 al 1938 y OMNIBUS 374 y 449. Con TORNILLO y auxiliares internos.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH-WAPSA"
+		"equipo":"BOSCH-WAPSA",
+		"img":"campo-33"
 	},
 	{
-		"img":"campo-40",
 		"numero":"5210",
 		"descripcion":"MERCEDES BENZ Camiones SUPER TORKE con motor VW CUMMINS. Con TORNILLO y auxiliares internos.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH-WAPSA"
+		"equipo":"BOSCH-WAPSA",
+		"img":"campo-34"
 	},
 	{
-		"img":"campo-41",
 		"numero":"5220",
 		"descripcion":"MERCEDEZS BENZ UNIMOG LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-35"
 	},
 	{
-		"img":"campo-42",
 		"numero":"5230",
 		"descripcion":"MERCEDES BENZ 921 UNIMOG LARGO y SCANIA P93 y P94",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-36"
 	},
 	{
-		"img":"campo-43",
 		"numero":"5240",
 		"descripcion":"MERCEDES BENZ Modelo 86 - FIAT 150 TURBO DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-44",
 		"numero":"5250",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 - ZANELLO TRACTOR JF. Puente de 2 agujeros. C\u00f3digo 9.001.083.575",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH-BRASIL"
+		"equipo":"BOSCH-BRASIL",
+		"img":"campo-38"
 	},
 	{
-		"img":"campo-45",
 		"numero":"5260",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 - ZANELLO TRACTOR. JF. Puente de 2 agujeros. Con escobillas. C\u00f3digo 9.000.083.575",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-39"
 	},
 	{
-		"img":"campo-46",
 		"numero":"5265",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 - ZANELLO TRACTOR. JF. Puente de 1 agujero. Con escobillas. C\u00f3digo 9.000.083.588",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-40"
 	},
 	{
-		"img":"campo-47",
 		"numero":"5270",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 JF - Modelo Moderno. Puente de 1 agujero. C\u00f3digo 9.000.083.588",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-41"
 	},
 	{
-		"img":"campo-48",
 		"numero":"5280",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 JF. Puente de 2 agujeros. C\u00f3digo 9.001.083.491.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-42"
 	},
 	{
-		"img":"campo-49",
 		"numero":"5290",
 		"descripcion":"MERCEDES BENZ 1114 y 1517 JF. Modelo Moderno. Puente de 1 agujero. C\u00f3digo 9.001.083.574",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-43"
 	},
 	{
-		"img":"campo-50",
 		"numero":"5300",
 		"descripcion":"MERCEDES BENZ 250 - 280. C\u00f3digo 001.311.042",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ESPA\u00d1OL"
+		"equipo":"BOSCH ESPA\u00d1OL",
+		"img":"campo-44"
 	},
 	{
-		"img":"campo-51",
 		"numero":"5310",
 		"descripcion":"MERCEDES BENZ Y JHON DEERE 4 PS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ESPA\u00d1OL"
+		"equipo":"BOSCH ESPA\u00d1OL",
+		"img":"campo-45"
 	},
 	{
-		"img":"campo-52",
 		"numero":"5320",
 		"descripcion":"MERCEDES BENZ 180 UTILITARIO.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ESPA\u00d1OL"
+		"equipo":"BOSCH ESPA\u00d1OL",
+		"img":"campo-46"
 	},
 	{
-		"img":"campo-53",
 		"numero":"5320",
 		"descripcion":"MERCEDES BENZ 180 UTILITARIO. Con PLAQUETA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ESPA\u00d1OL"
+		"equipo":"BOSCH ESPA\u00d1OL",
+		"img":"campo-46"
 	},
 	{
-		"img":"campo-54",
 		"numero":"5330",
 		"descripcion":"MERCEDES BENZ Y JHON DEERE 4 PS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ITALIANO"
+		"equipo":"BOSCH ITALIANO",
+		"img":"campo-47"
 	},
 	{
-		"img":"campo-55",
 		"numero":"5335",
 		"descripcion":"FIAT IVECO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-56",
 		"numero":"5336",
 		"descripcion":"FIAT IVECO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-57",
 		"numero":"5340",
 		"descripcion":"MERCEDES BENZ Y JHON DEERE 4 PS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH ITALIANO"
+		"equipo":"BOSCH ITALIANO",
+		"img":"campo-48"
 	},
 	{
-		"img":"campo-58",
 		"numero":"5350",
 		"descripcion":"MONZA NAFTERO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-49"
 	},
 	{
-		"img":"campo-59",
 		"numero":"5360",
 		"descripcion":"OPEL 1100 y SAAB 96",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-50"
 	},
 	{
-		"img":"campo-60",
 		"numero":"5370",
 		"descripcion":"PERKINS PICK UP CHEVROLET - FORD JF Peque\u00f1o VALMET. PEOUEOT 505 DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-51"
 	},
 	{
-		"img":"campo-61",
 		"numero":"5380",
 		"descripcion":"PEUGEOT 205 - 405",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-52"
 	},
 	{
-		"img":"default-card",
 		"numero":"5390",
 		"descripcion":"RENAULT 9-11-18-19-21 y TRAFICC - VOLKSWAGEN - MWM - FIAT 147 SPAZIO (NAFTERO) - CHEVETTE 1600 - PEUGEOT 504 - 505 - FORD LASER - SAVEIRO Naftero con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-53"
 	},
 	{
-		"img":"campo-63",
 		"numero":"5390",
 		"descripcion":"RENAULT 9-11-18-19-21 y TRAFICC - VOLKSWAGEN - MWM - FIAT 147 SPAZIO (NAFTERO) - CHEVETTE 1600 - PEUGEOT 504 - 505 - FORD LASER - SAVEIRO Naftero con escobillas. CON PLAQUETA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-53"
 	},
 	{
-		"img":"default-card",
 		"numero":"5400",
 		"descripcion":"ZANELLO TRACTOR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-65",
 		"numero":"5410",
 		"descripcion":"VOLKSWAGEN GOL - POLO - PASSAT Con escobillas",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-54"
 	},
 	{
-		"img":"campo-66",
 		"numero":"5420",
 		"descripcion":"VOLKSWAGEN PASSAT 1300 - 1500 - 1600. con escobillas. MODELO LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-55"
 	},
 	{
-		"img":"campo-67",
 		"numero":"5430",
 		"descripcion":"VOLKSWAGEN KONBI - SEDAN 1300 - 1500 GHIA - TL - TC - (MWV) -12. Con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-56"
 	},
 	{
-		"img":"campo-68",
 		"numero":"5440",
 		"descripcion":"VOLKSWAGEN COCHE - FURGON O KOMBI M.51 ESCARABAJO O FUSCA",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-57"
 	},
 	{
-		"img":"default-card",
 		"numero":"5450",
 		"descripcion":"VOLSWAGEN COCHE - FURGO O KOMBI MOD. 51 FUSCA O ESCARABAJO REFORMA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"campo-58"
 	},
 	{
-		"img":"campo-70",
 		"numero":"5451",
 		"descripcion":"ESCARABAJO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH BRASIL"
+		"equipo":"BOSCH BRASIL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-71",
 		"numero":"5460",
 		"descripcion":"RASTROJERO IME INDENOR MERCEDEZ BENZ 170 - Con arandelas y aislaciones REFORZADO con flexible",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH-IME"
+		"equipo":"BOSCH-IME",
+		"img":"campo-59"
 	},
 	{
-		"img":"campo-72",
 		"numero":"5470",
 		"descripcion":"RESTROJERO DIESEL E.J.D (REFORZADO) IME INDENOR MERCEDES BENZ 170 - 180",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-60"
 	},
 	{
-		"img":"campo-73",
 		"numero":"5480",
 		"descripcion":"AUTO ELEVADOR CLARK motor BMW HITACHI - MERCEDES BENZ UTILITARIO Modelo 86 en adelante",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH-HITACHI"
+		"equipo":"BOSCH-HITACHI",
+		"img":"campo-61"
 	},
 	{
-		"img":"campo-74",
 		"numero":"5490",
 		"descripcion":"ZETOR GRANDE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"default-card",
 		"numero":"5495",
 		"descripcion":"ZETOR MODELO NUEVO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-76",
 		"numero":"5500",
 		"descripcion":"C.A.V.SACNIA VABIS Modelo 66 (2 PRINCIPALES)",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"C.A.V."
+		"equipo":"C.A.V.",
+		"img":"campo-63"
 	},
 	{
-		"img":"campo-77",
 		"numero":"5501",
 		"descripcion":"SCANIA BOSCH-SERIE 5.ELECTRONICO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"ELECTRONICO"
+		"equipo":"ELECTRONICO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-78",
 		"numero":"5510",
 		"descripcion":"MERCEDES BENZ MUSSO PICK UP 4x4 DIESEL 5 CILINDROS.Codigo de arranque 661 151 310",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DAEWO"
+		"equipo":"DAEWO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-79",
 		"numero":"5520",
 		"descripcion":"AUTOLITE - DODGE FARGO - AUTOMOVIL O CAMION CON SOLENIODE",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-65"
 	},
 	{
-		"img":"campo-80",
 		"numero":"5530",
 		"descripcion":"AUTOLITE - DODGE FARGO - AUTOMOVIL O CAMION CON SOLENIODE REFORMA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-66"
 	},
 	{
-		"img":"campo-81",
 		"numero":"5540",
 		"descripcion":"AUTOLITE - DODGE FARGO - AUTOMOVIL O CAMION SIN SOLENIODE",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-67"
 	},
 	{
-		"img":"campo-82",
 		"numero":"5550",
 		"descripcion":"AUTOLITE - DODGE FARGO - AUTOMOVIL O CAMION SIN SOLENIODE REFORMA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-68"
 	},
 	{
-		"img":"campo-83",
 		"numero":"5560",
 		"descripcion":"CHEVROLET BRONCO CANADIENSE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-84",
 		"numero":"5570",
 		"descripcion":"CASE LINCOLN TRACTOR. CON TORNILLO GRUESO LARGO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-70"
 	},
 	{
-		"img":"campo-85",
 		"numero":"5575",
 		"descripcion":"CASE LINCOLN CON TORNILLO FINO LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-71"
 	},
 	{
-		"img":"campo-86",
 		"numero":"5580",
 		"descripcion":"CASE TRACTOR CON TORNILLO LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-72"
 	},
 	{
-		"img":"campo-87",
 		"numero":"5590",
 		"descripcion":"CASE TRACTOR CON TORNILLO FINO LARGO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-73"
 	},
 	{
-		"img":"campo-88",
 		"numero":"5610",
 		"descripcion":"CHEVROLET CAMION O PICK-UP ( Eq. IMPORTADO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-74"
 	},
 	{
-		"img":"campo-89",
 		"numero":"5620",
 		"descripcion":"CHEVROLET VECTRA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-90",
 		"numero":"5630",
 		"descripcion":"DELCO REMY CAMION APACHE 55 - 57 ( SIN SOLENOIDE)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-76"
 	},
 	{
-		"img":"campo-91",
 		"numero":"5640",
 		"descripcion":"DELCO REMY COCHE 55 - 57 (CON SOLENOIDE)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-77"
 	},
 	{
-		"img":"campo-92",
 		"numero":"5650",
 		"descripcion":"DELCO REMY (C\u00d3DIGO DR 1949109 - 1945109 - 1971839 - 19774778)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-78"
 	},
 	{
-		"img":"campo-93",
 		"numero":"5660",
 		"descripcion":"DELCO REMY Modelo 57 al 59",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-79"
 	},
 	{
-		"img":"campo-94",
 		"numero":"5670",
 		"descripcion":"JHON DEERE (DOBLE PUENTE - BULON GRUESO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-80"
 	},
 	{
-		"img":"campo-95",
 		"numero":"5680",
 		"descripcion":"JHON DEERE 730 MAQUINAS VIALES",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-81"
 	},
 	{
-		"img":"campo-96",
 		"numero":"5690",
 		"descripcion":"DELCO REMY OPALA 4 y 6 CILINDROS ALCOHOL Y NAFTA CATERPILLAS AUTOELEVADOR - JOHN DEERE - CLARK - CASE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-82"
 	},
 	{
-		"img":"campo-97",
 		"numero":"5700",
 		"descripcion":"OPEL 2000 NAFTA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-83"
 	},
 	{
-		"img":"campo-98",
 		"numero":"5710",
 		"descripcion":"OPEL 2.0",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-84"
 	},
 	{
-		"img":"campo-99",
 		"numero":"5720",
 		"descripcion":"SILVERADO 10 MT. C\u00f3digo 1877306-1965730-1976129-10470770-10496643-D4223-D4227-D4264",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-85"
 	},
 	{
-		"img":"default-card",
 		"numero":"5721",
 		"descripcion":"DELCO REMY CAMION RUSO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-101",
 		"numero":"5730",
 		"descripcion":"DELCO REMY COD. SD 210 - SD260",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-86"
 	},
 	{
-		"img":"campo-102",
 		"numero":"5740",
 		"descripcion":"DELCO REMY COD. SD 205 - SD 255",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-87"
 	},
 	{
-		"img":"campo-103",
 		"numero":"5750",
 		"descripcion":"DELCO REMY COD. SD 255",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-88"
 	},
 	{
-		"img":"campo-104",
 		"numero":"5760",
 		"descripcion":"DELCO REMY 10 MT",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-89"
 	},
 	{
-		"img":"campo-105",
 		"numero":"5780",
 		"descripcion":"DELCO REMY 10 MT. C\u00f3digo 1974375",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-90"
 	},
 	{
-		"img":"campo-106",
 		"numero":"5790",
 		"descripcion":"DELCO REMY 20 MT - 25MT. C\u00f3digo 189118 - 1955951 - 1956384",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-91"
 	},
 	{
-		"img":"campo-107",
 		"numero":"5800",
 		"descripcion":"DELCO REMY 20 MT - 25 MT. C\u00f3digo 1960853",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-92"
 	},
 	{
-		"img":"campo-108",
 		"numero":"5810",
 		"descripcion":"DELCO REMY 20 MT - 25 MT. C\u00f3digo 1960854 (GIRO IZQUIERDO)",
 		"voltaje":"13 Volts",
 		"campos":"5 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-109",
 		"numero":"5820",
 		"descripcion":"DELCO REMY 27 MT 7K9 (110582). C\u00f3digo 1978123 - D4239",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-93"
 	},
 	{
-		"img":"campo-110",
 		"numero":"5830",
 		"descripcion":"DELCO REMY MT 28",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-94"
 	},
 	{
-		"img":"campo-111",
 		"numero":"5831",
 		"descripcion":"DELCO REMY MT 29",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-112",
 		"numero":"5840",
 		"descripcion":"DELCO REMY MT 28",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-95"
 	},
 	{
-		"img":"default-card",
 		"numero":"5841",
 		"descripcion":"DELCO REMY MT 29",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"default-card",
 		"numero":"5842",
 		"descripcion":"MERCEDES BENZ ELECTRONICO.914-1633.CON ARRANQUE 10479626\/660.DELCO REMY CAMION 712C 28 MT",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-115",
 		"numero":"5843",
 		"descripcion":"DELCO REMY MT 38",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-116",
 		"numero":"5846",
 		"descripcion":"DELCO REMY MT 39  MOTOR CUMMINS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"EQUIPO MEXICANO"
+		"equipo":"EQUIPO MEXICANO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-117",
 		"numero":"5850",
 		"descripcion":"DELCO REMY 30 MT. C\u00f3digo 1945350 - D4218",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-96"
 	},
 	{
-		"img":"campo-118",
 		"numero":"5860",
 		"descripcion":"DELCO REMY 30 MT (CORTO). C\u00f3digo 1951857",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"campo-97"
 	},
 	{
-		"img":"default-card",
 		"numero":"5861",
 		"descripcion":"TRACTOR SACH ARTICULADO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-120",
 		"numero":"5870",
 		"descripcion":"DELCO REMY 30 MT. C\u00f3digo 1851981",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-98"
 	},
 	{
-		"img":"campo-121",
 		"numero":"5890",
 		"descripcion":"DELCO REMY 35 MT. C\u00f3digo 1966028 - 1969128 (LARGO)",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-99"
 	},
 	{
-		"img":"campo-122",
 		"numero":"5900",
 		"descripcion":"DELCO REMY 35 MT",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-123",
 		"numero":"5910",
 		"descripcion":"DELCOI REMY 35 MT-40MT. C\u00f3digo 1945883-1977661",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-101"
 	},
 	{
-		"img":"campo-124",
 		"numero":"5920",
 		"descripcion":"DELCO REMY 35 MT-40 MT",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-102"
 	},
 	{
-		"img":"campo-125",
 		"numero":"5930",
 		"descripcion":"DELCO REMY MT 37(2 PRINCIPALES y 2 AUXILIARES SUELTOS). C\u00f3digo 1988328",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-103"
 	},
 	{
-		"img":"campo-126",
 		"numero":"5940",
 		"descripcion":"DELCO REMY MT 37 LARGO INTERNACIONAL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-104"
 	},
 	{
-		"img":"campo-127",
 		"numero":"5950",
 		"descripcion":"DELCO REMY MT 37 LARGON con motor CUMMINS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-105"
 	},
 	{
-		"img":"campo-128",
 		"numero":"5960",
 		"descripcion":"DELCO REMY MT 37 (CORTO) 2 PRINCIPALES y 2 AUXILIARES (JUNTOS)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-106"
 	},
 	{
-		"img":"default-card",
 		"numero":"5970",
 		"descripcion":"DELCO REMY MT 37 CORTO CATERPILLAR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-107"
 	},
 	{
-		"img":"campo-130",
 		"numero":"5980",
 		"descripcion":"DELCO REMY MT 37 CAMION FORD. C\u00f3digo 1985324",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-108"
 	},
 	{
-		"img":"campo-131",
 		"numero":"5990",
 		"descripcion":"DELCO REMY MT 37 y MT 41 con motor CUMMINS - VW FRONTAL - FORD CARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-109"
 	},
 	{
-		"img":"campo-132",
 		"numero":"50000",
 		"descripcion":"DELCO REMY 37 MT-41 MT. C\u00f3digo 104.72563",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-110"
 	},
 	{
-		"img":"campo-133",
 		"numero":"50005",
 		"descripcion":"DELCO REMY MT 41. C\u00f3digo 104.72563",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-134",
 		"numero":"50040",
 		"descripcion":"DELCO REMY 40 MTJOHN DEERE 730 (CON TORNILLO)",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-111"
 	},
 	{
-		"img":"campo-135",
 		"numero":"50050",
 		"descripcion":"DELCO REMY 40 MT. C\u00f3digo 1946761 - 1978378",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-112"
 	},
 	{
-		"img":"campo-136",
 		"numero":"50051",
 		"descripcion":"DELCO REMY 40 MT. C\u00f3digo 1946761 - 1978378 tornillo al costado",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-137",
 		"numero":"50060",
 		"descripcion":"DELCO REMY 40 MT . C\u00f3digo 1977661",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-138",
 		"numero":"50070",
 		"descripcion":"DELCO REMY 40 MT   C\u00f3digo 1946761",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-139",
 		"numero":"50080",
 		"descripcion":"DELCO REMY MT 42. C\u00f3digo 1988442",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-115"
 	},
 	{
-		"img":"campo-140",
 		"numero":"50090",
 		"descripcion":"DELCO REMY MT 42 (LARGO). CON 2 PRINCIPALES y 2 AUXILIARES",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-116"
 	},
 	{
-		"img":"campo-141",
 		"numero":"50100",
 		"descripcion":"DELCO REMY MT 42 (CON BULON FINO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-117"
 	},
 	{
-		"img":"campo-142",
 		"numero":"50110",
 		"descripcion":"DELCO REMY MT 42 (CON BULON FINO)",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-118"
 	},
 	{
-		"img":"campo-143",
 		"numero":"50120",
 		"descripcion":"DELCO REMY 42 MT. C\u00d3DIGO 1988442",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-144",
 		"numero":"50125",
 		"descripcion":"DELCO REMY MT 42. C\u00f3digo 1988442",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-120"
 	},
 	{
-		"img":"campo-145",
 		"numero":"50130",
 		"descripcion":"DELCO REMY MT 42. C\u00d3DIGO  1988111",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-121"
 	},
 	{
-		"img":"campo-146",
 		"numero":"50140",
 		"descripcion":"DELCO REMY 42 MT",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-122"
 	},
 	{
-		"img":"campo-147",
 		"numero":"50150",
 		"descripcion":"DELCO REMY 42 MT",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-123"
 	},
 	{
-		"img":"campo-148",
 		"numero":"50160",
 		"descripcion":"DELCO REMY 42 MT. C\u00f3digo 1988797",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-124"
 	},
 	{
-		"img":"campo-149",
 		"numero":"50170",
 		"descripcion":"DELCO REMY 42 MT. C\u00f3digo 1988863",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-125"
 	},
 	{
-		"img":"campo-150",
 		"numero":"50180",
 		"descripcion":"DELCO REMY 37 MT C\u00f3digo 10468110 - VOLKSWAGEN - FORD - CUMMINS - NAVISTAR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-126"
 	},
 	{
-		"img":"campo-151",
 		"numero":"50190",
 		"descripcion":"DELCO REMY 50 MT. 6 Campos BUDA -  CATERPILLAR - CUMMINS - CON TORNILLO",
 		"voltaje":"24\/32 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-127"
 	},
 	{
-		"img":"campo-152",
 		"numero":"50200",
 		"descripcion":"DELCO REMY 50 MT CON TORNILLO FINO",
 		"voltaje":"24\/32 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-128"
 	},
 	{
-		"img":"campo-153",
 		"numero":"50210",
 		"descripcion":"DELCO REMY 50 MT . C\u00f3digo 1977820",
 		"voltaje":"12 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-154",
 		"numero":"50220",
 		"descripcion":"DELCO REMY 50 MT C\u00d3DIGO 1967345",
 		"voltaje":"32 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-130"
 	},
 	{
-		"img":"campo-155",
 		"numero":"50230",
 		"descripcion":"DELCO REMY FERROCARRIL (TIPO BUDA ) . 6 Campos",
 		"voltaje":"24\/32 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-131"
 	},
 	{
-		"img":"campo-156",
 		"numero":"50231",
 		"descripcion":"DELCO REMY MOD.48",
 		"voltaje":"24 Volts",
 		"campos":"6 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-157",
 		"numero":"50240",
 		"descripcion":"DELCO REMY SUPER TORKE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"campo-132"
 	},
 	{
-		"img":"campo-158",
 		"numero":"50241",
 		"descripcion":"CATERPILLAR CORTO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-159",
 		"numero":"50242",
 		"descripcion":"CATERPILLAR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY CHINO"
+		"equipo":"DELCO REMY CHINO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-160",
 		"numero":"50243",
 		"descripcion":"CANTERPILLAR CON TORNILLO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-161",
 		"numero":"50244",
 		"descripcion":"CATERPILLAR",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-162",
 		"numero":"50245",
 		"descripcion":"MOTOCOMPRESOR. tres campos de planchuela y un auxiliar",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-163",
 		"numero":"50246",
 		"descripcion":"CARTERPILLAR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-164",
 		"numero":"50250",
 		"descripcion":"CITROEN AMI 8 (6202 C) COL. FRONTAL. Con escobillas",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-133"
 	},
 	{
-		"img":"campo-165",
 		"numero":"50260",
 		"descripcion":"CITROEN AMI 8 (6202) COL. COMUN. Con escobillas",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-134"
 	},
 	{
-		"img":"campo-166",
 		"numero":"50270",
 		"descripcion":"CITROEN PALLAS SALIDA ABAJO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-135"
 	},
 	{
-		"img":"campo-167",
 		"numero":"50280",
 		"descripcion":"CITROEN PALLAS CX",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-136"
 	},
 	{
-		"img":"campo-168",
 		"numero":"50290",
 		"descripcion":"CITROEN PALLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-137"
 	},
 	{
-		"img":"campo-169",
 		"numero":"50300",
 		"descripcion":"PEUGEOT 403-404 (CON EQUIPO ELECTRO-MECANICA CORTO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER-ELECTRO"
+		"equipo":"DUCELLIER-ELECTRO",
+		"img":"campo-138"
 	},
 	{
-		"img":"campo-170",
 		"numero":"50310",
 		"descripcion":"PEUGEOT GASOLERO IMPORTADO (REFORZADO) C\u00f3digo 6109",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-139"
 	},
 	{
-		"img":"campo-171",
 		"numero":"50320",
 		"descripcion":"PEUGEOT 604 (6237C)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"DUCELLIER"
+		"equipo":"DUCELLIER",
+		"img":"campo-140"
 	},
 	{
-		"img":"campo-172",
 		"numero":"50330",
 		"descripcion":"CITROEN FEMSA MOC. 12X - 5KW (CON ESCOBILLAS)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FEMSA"
+		"equipo":"FEMSA",
+		"img":"campo-141"
 	},
 	{
-		"img":"campo-173",
 		"numero":"50331",
 		"descripcion":"LANROBER",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"FEMSA"
+		"equipo":"FEMSA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-174",
 		"numero":"50340",
 		"descripcion":"CITROEN DIANE - CITROEN GS SPECIAL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FEMSACO-FEMSA"
+		"equipo":"FEMSACO-FEMSA",
+		"img":"campo-142"
 	},
 	{
-		"img":"campo-175",
 		"numero":"50350",
 		"descripcion":"FIAT 600-1100 - PEUGEOT CHICO y RENAULT 12 - GIRO IZQUIERDO SIN SOLENOIDE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT-FEMSACO"
+		"equipo":"FIAT-FEMSACO",
+		"img":"campo-143"
 	},
 	{
-		"img":"campo-176",
 		"numero":"50355",
 		"descripcion":"FIAT 642 160 N2",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-177",
 		"numero":"50356",
 		"descripcion":"FIAT 619 N",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-178",
 		"numero":"50360",
 		"descripcion":"FIAT 600-750-1100 GIRO DERECHO (CON SOLENOIDE)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT O GAREF"
+		"equipo":"FIAT O GAREF",
+		"img":"campo-144"
 	},
 	{
-		"img":"campo-179",
 		"numero":"50370",
 		"descripcion":"FIAT 600-1100 - GIRO DERECHO (SIN SOLENOIDE)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT-GAREF"
+		"equipo":"FIAT-GAREF",
+		"img":"campo-145"
 	},
 	{
-		"img":"campo-180",
 		"numero":"50380",
 		"descripcion":"FIAT 600-1100 - GIRO DERECHO (CON SOLENOIDE)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT-GAREF"
+		"equipo":"FIAT-GAREF",
+		"img":"campo-146"
 	},
 	{
-		"img":"campo-181",
 		"numero":"50390",
 		"descripcion":"FIAT 1500 COCHE O RURAL (2 PLINCIPALES Y 2 AUXILAIARES)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT O GAREF"
+		"equipo":"FIAT O GAREF",
+		"img":"campo-147"
 	},
 	{
-		"img":"campo-182",
 		"numero":"50395",
 		"descripcion":"LEVANTA RAMPA (DOS AUXILIARES)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-183",
 		"numero":"50396",
 		"descripcion":"A.M.J. 5705 BOMBA HIDRAULICA (2 PRINCIPALAS Y 2 AUXILIARES)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA"
+		"equipo":"ISKRA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-184",
 		"numero":"50400",
 		"descripcion":"FIAT TRACTOR 411 E 115 PRINCIPAL",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"campo-148"
 	},
 	{
-		"img":"campo-185",
 		"numero":"50410",
 		"descripcion":"FIAT TRACTOR U25 E115",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"campo-149"
 	},
 	{
-		"img":"campo-186",
 		"numero":"50420",
 		"descripcion":"FORD FALCON (IMPORTADO)4 CAMPOS DE PLANCHUELA Y 1 AUXILIAR INTERNO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FOMOCO"
+		"equipo":"FOMOCO",
+		"img":"campo-150"
 	},
 	{
-		"img":"campo-187",
 		"numero":"50430",
 		"descripcion":"FORD MUSTANG IMPORTADO 4 CAMPOS DE PLANCHUELA Y 1 AUXILIAR INTERNO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FOMOCO"
+		"equipo":"FOMOCO",
+		"img":"campo-151"
 	},
 	{
-		"img":"campo-188",
 		"numero":"50440",
 		"descripcion":"FORD 350 PICK UP RANGER IMPORTADO 4 CAMPOS DE PLANCHUELA Y 1 AUXILIAR INTERNO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FOMOCO"
+		"equipo":"FOMOCO",
+		"img":"campo-152"
 	},
 	{
-		"img":"campo-189",
 		"numero":"50450",
 		"descripcion":"FORD RANGER 150(IMPORTADO) 4 CAMPOS DE PLANCHUELA Y 1 AUXILIAR INTERNO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FOMOCO"
+		"equipo":"FOMOCO",
+		"img":"campo-153"
 	},
 	{
-		"img":"campo-190",
 		"numero":"50460",
 		"descripcion":"FORD THAMES",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FOMOCO"
+		"equipo":"FOMOCO",
+		"img":"campo-154"
 	},
 	{
-		"img":"campo-191",
 		"numero":"50470",
 		"descripcion":"FORD V8 (REFORZADO)",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"FORD"
+		"equipo":"FORD",
+		"img":"campo-155"
 	},
 	{
-		"img":"campo-192",
 		"numero":"50480",
 		"descripcion":"FORD GALAXY CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"FORD"
+		"equipo":"FORD",
+		"img":"campo-156"
 	},
 	{
-		"img":"campo-193",
 		"numero":"50490",
 		"descripcion":"CHEVROLET (COCHE O CAMION) - OPEL K180",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"GAREF"
+		"equipo":"GAREF",
+		"img":"campo-157"
 	},
 	{
-		"img":"campo-194",
 		"numero":"50500",
 		"descripcion":"FIAT 128 - PEUGEOT 404-504-505 - REGATTA 2000 - DUNA DIESEL. Con escobillas pasacables y salida.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"GAREF"
+		"equipo":"GAREF",
+		"img":"campo-158"
 	},
 	{
-		"img":"campo-195",
 		"numero":"50520",
 		"descripcion":"FIAT 128 - PEUGEOT 404-504-505 - REGATTA 2000 - DUNA DIESEL. REFORZADO para GNC. Con escobillas.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"GAREF"
+		"equipo":"GAREF",
+		"img":"campo-159"
 	},
 	{
-		"img":"campo-196",
 		"numero":"50530",
 		"descripcion":"FIAT 125-1500-1600",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"GAREF"
+		"equipo":"GAREF",
+		"img":"campo-160"
 	},
 	{
-		"img":"campo-197",
 		"numero":"50540",
 		"descripcion":"FIAT 125 - 1500 - 1600 - LADA (2 PRINCIPALES Y 2 AUXILIARTES CORTOS)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI O GAREF"
+		"equipo":"MARELLI O GAREF",
+		"img":"campo-161"
 	},
 	{
-		"img":"campo-198",
 		"numero":"50550",
 		"descripcion":"IES SUPER AMERICA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"GAREF"
+		"equipo":"GAREF",
+		"img":"campo-162"
 	},
 	{
-		"img":"campo-199",
 		"numero":"50560",
 		"descripcion":"HITACHI S25 - 125A - 23300 - DODGE RAM",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-163"
 	},
 	{
-		"img":"campo-200",
 		"numero":"50570",
 		"descripcion":"MITSUBISHI GD 15 Modelo 91 DIESEL CON REDUCTOR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-164"
 	},
 	{
-		"img":"campo-201",
 		"numero":"50580",
 		"descripcion":"MITSUBISHI GD 15 Modelo 91 DIESEL CON REDUCTOR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-165"
 	},
 	{
-		"img":"campo-202",
 		"numero":"50590",
 		"descripcion":"NISSAN",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-166"
 	},
 	{
-		"img":"campo-203",
 		"numero":"50600",
 		"descripcion":"NISSAN GENERADOR DE GRUPO ELECTROGENO ESTACIONARIO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-167"
 	},
 	{
-		"img":"campo-204",
 		"numero":"50610",
 		"descripcion":"TOYOTA - ISUZU PICK UP NAFTERA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"HITACHI"
+		"equipo":"HITACHI",
+		"img":"campo-168"
 	},
 	{
-		"img":"campo-205",
 		"numero":"50620",
 		"descripcion":"IVER FRIO - ARRANQUE HITACHI",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-206",
 		"numero":"50621",
 		"descripcion":"IVER FRIO - ARRANQUE HITACHI (una vuelta menos)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-207",
 		"numero":"50630",
 		"descripcion":"BEDFORD C.A. 45C y 45D PICK UP - CAMION DIESEL 350 C.A. 45D - FIAT 650-10 TRACTOR C.A. 45 REFORZADO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-169"
 	},
 	{
-		"img":"campo-208",
 		"numero":"50631",
 		"descripcion":"BEDFORD C.A. 45C y 45D PICK UP - CAMION DIESEL 350 C.A. 45D - FIAT 650-10 TRACTOR C.A. 45 REFORZADO (GIRO IZQUIERDO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-209",
 		"numero":"50640",
 		"descripcion":"CITROEN 3 CV (35255816)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-170"
 	},
 	{
-		"img":"campo-210",
 		"numero":"50650",
 		"descripcion":"CITROEN AMI 8 - IES SUPER AMERICA C\u00f3digo  35256033",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-171"
 	},
 	{
-		"img":"campo-211",
 		"numero":"50660",
 		"descripcion":"CHEVROLET 400 Y PICK UP - FORD FALCON - TORINO- VALIANT I - II - III - PEUGEOT DIESEL REFORZADO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-172"
 	},
 	{
-		"img":"campo-212",
 		"numero":"50670",
 		"descripcion":"CHEVROLET 400 Y PICK UP - FORD FALCON - TORINO- VALIANT I - II - III - PEUGEOT REFORZADO PARA GNC",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-173"
 	},
 	{
-		"img":"campo-213",
 		"numero":"50680",
 		"descripcion":"CHEVROLET FRONTALCON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-174"
 	},
 	{
-		"img":"campo-214",
 		"numero":"50690",
 		"descripcion":"DI TELLA COCHE O PICK UP (REFORZADO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-175"
 	},
 	{
-		"img":"campo-215",
 		"numero":"50700",
 		"descripcion":"DODGE 1500 - PEUGEOT 404-405 - C\u00f3digo 32255979",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-176"
 	},
 	{
-		"img":"campo-216",
 		"numero":"50710",
 		"descripcion":"FIAT 125 FRONTAL (CON ESCOBILLAS)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-217",
+		"numero":"50720",
+		"descripcion":"FIAT 128 - RENAULT 12-6-4 - PEUGEOT 2000 PASCABLE - SALIDA COMPLETA",
+		"voltaje":"12 Volts",
+		"campos":"4 Campos",
+		"equipo":"INDIEL",
+		"img":"campo-178"
+	},
+	{
 		"numero":"50730",
 		"descripcion":"FIAT 128 - RENAULT 12-6-4 - PEUGEOT 2000 PASCABLE - SALIDA COMPLETA REFORZADO PARA GNC",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-179"
 	},
 	{
-		"img":"campo-218",
-		"numero":"1014",
+		"numero":"50740",
 		"descripcion":"FORD SIERRA FRONTAL - RENAULT 11-18 - FIAT DUNA - SPAZIO - UNO - FORD ESCORT para GNC CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-180"
 	},
 	{
-		"img":"campo-219",
 		"numero":"50750",
 		"descripcion":"FORD SIERRA FRONTAL - RENAULT 11-18 - FIAT DUNA - SPAZIO - UNO - FORD ESCORT para GNC CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-181"
 	},
 	{
-		"img":"campo-220",
 		"numero":"50760",
 		"descripcion":"FIAT 900 PERKINS Eq. AN115 LARGO 6-354 C. P3 - MAGIRUZ DEUTZ CON ARANDELAS Y AISLACION             SUAVE",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"InDIEL"
+		"equipo":"InDIEL",
+		"img":"campo-192"
 	},
 	{
-		"img":"campo-221",
 		"numero":"50760",
 		"descripcion":"FIAT 900 PERKINS Eq. AN115 LARGO 6-354 C.P3 - MAGIRUZ DEUTZ CON ARANDELAS Y AISLACION",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-192"
 	},
 	{
-		"img":"campo-222",
 		"numero":"50760",
 		"descripcion":"FIAT 900 PERKINS Eq. AN115 LARGO 6-354 C. P3 - MAGIRUZ DEUTZ CON ARANDELAS Y AISLACION         ABIERTO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-192"
 	},
 	{
-		"img":"campo-223",
 		"numero":"50767",
 		"descripcion":"FIAT 900 PERKINS Eq. AN115 LARGO 6-354 C. P3 - MAGIRUZ DEUTZ CON ARANDELAS Y AISLACION",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-224",
 		"numero":"50770",
 		"descripcion":"FIAT 1500 Modelo 68 - PEUGEOT 404 Modelo 67 - RENAULT GORDINI",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-193"
 	},
 	{
-		"img":"campo-225",
 		"numero":"50780",
 		"descripcion":"FORD F-100 ; F-350 ; F-600 ; F-900 (2 CAMPOS DE PLANCHUELA Y 1 AUXILIAR)",
 		"voltaje":"12 Volts",
 		"campos":"3 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-194"
 	},
 	{
-		"img":"campo-226",
 		"numero":"50790",
 		"descripcion":"FORD TAUNUS FRONTAL CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-195"
 	},
 	{
-		"img":"campo-227",
 		"numero":"50800",
 		"descripcion":"FORD TAUNUS FRONTAL REFORMADO PARA GNC",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-196"
 	},
 	{
-		"img":"campo-228",
 		"numero":"50810",
 		"descripcion":"FORD SIEERA 2.3 CON ESCOBILLAS (C\u00f3digo 35257790 M. 93) - FORD ESCORT GUARUYA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-197"
 	},
 	{
-		"img":"campo-229",
 		"numero":"50830",
 		"descripcion":"IKA - ESTANCIERA - JEEP VAQUEANO - UTILITARIO (REFORZADO)",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-198"
 	},
 	{
-		"img":"campo-230",
 		"numero":"50840",
 		"descripcion":"IKA - BERGANTIN - CHEVROLET NAFTERO - DODGE FARGO- PICK UP - TORINO JEEP IKA - GLADIATOR V y XX",
 		"voltaje":"12 Volts",
 		"campos":"3 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-199"
 	},
 	{
-		"img":"campo-231",
 		"numero":"50870",
 		"descripcion":"PERKINS 6-305 REFORZADO . CON ARANDELAS Y AISLACION",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-200"
 	},
 	{
-		"img":"campo-232",
 		"numero":"50880",
 		"descripcion":"PERKINS - MERCEDES BENZ - JOHN DEERE Eq. AN 115 LARGO (REFORZADO) CON ARANDELAS Y AISLACION",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-201"
 	},
 	{
-		"img":"campo-233",
 		"numero":"50890",
 		"descripcion":"PERKINS 4-203 Y 3-152 FIAT - JOHN DEERE Y M. FERGUSON CON Eq. AN 115 CORTO (REFORZADO) CON ARANDELAS Y AISLACION",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-202"
 	},
 	{
-		"img":"campo-234",
 		"numero":"50895",
 		"descripcion":"AN 115 CORTO (TIPO AN LARGO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-235",
 		"numero":"50900",
 		"descripcion":"PERKINS CORTO TRACTOR 35256760 CON ARANDELAS Y AISLACION",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-203"
 	},
 	{
-		"img":"campo-236",
 		"numero":"50910",
 		"descripcion":"AN 115 CORTO Modelo 94 CON ESCOBILLAS, AISLACION Y ARANDELAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-204"
 	},
 	{
-		"img":"campo-237",
 		"numero":"50920",
 		"descripcion":"PERKINS TRACTOR Eq.AN 115 CORTO CON ARANDELAS Y AISLACION",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-205"
 	},
 	{
-		"img":"campo-238",
 		"numero":"50930",
 		"descripcion":"PEUGEOT 403*404 Modelo 67 - FIAT 1500 Modelo 68 CHICO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-206"
 	},
 	{
-		"img":"campo-239",
 		"numero":"50940",
 		"descripcion":"RASTROJERO BORGWARD - JHON DEERE 445",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-207"
 	},
 	{
-		"img":"campo-240",
 		"numero":"50950",
 		"descripcion":"RASTROJERO DIESEL - PEUGEOT GASOLERO - PICK UP Y FRONTALITO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-208"
 	},
 	{
-		"img":"campo-241",
 		"numero":"50960",
 		"descripcion":"RANAULT DAUPHINE - GORDINI - 4L (REFORZADO)",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-209"
 	},
 	{
-		"img":"campo-242",
 		"numero":"50970",
 		"descripcion":"RANAULT GORDINI - DAUPHIN - 4L REFORMA A 12V",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"campo-210"
 	},
 	{
-		"img":"campo-243",
 		"numero":"50975",
 		"descripcion":"TORINO FRONTAL (CON ESCOBILLAS)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-244",
 		"numero":"50980",
 		"descripcion":"PERKINS MERCEDES BENZ AN 115 LARGO motor MWM BRASILERO C\u00f3digo 352583 M115 CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"INDIEL-WAPSA"
+		"equipo":"INDIEL-WAPSA",
+		"img":"campo-211"
 	},
 	{
-		"img":"campo-245",
 		"numero":"50990",
 		"descripcion":"DUCATTO DIESEL CAMION TATA 608 - 608 MERCEDES BENZ M180 motor MAXION M93",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE-INDIEL"
+		"equipo":"PRESTOLITE-INDIEL",
+		"img":"campo-212"
 	},
 	{
-		"img":"campo-246",
 		"numero":"51000",
 		"descripcion":"CUMMINS ISB 02 - BLUEBIRD INTERNACIONAL - DODGE US",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE-INDIEL"
+		"equipo":"PRESTOLITE-INDIEL",
+		"img":"campo-213"
 	},
 	{
-		"img":"campo-247",
 		"numero":"51010",
 		"descripcion":"VOLKSWAGEN CUMMINS - MERCEDES BENZ OMNIBUS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE-INDIEL"
+		"equipo":"PRESTOLITE-INDIEL",
+		"img":"campo-214"
 	},
 	{
-		"img":"campo-248",
 		"numero":"51020",
 		"descripcion":"CUMMINS CON ARRANQUE M 100 R C\u00f3digo INDIEL 35260927",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE-INDIEL"
+		"equipo":"PRESTOLITE-INDIEL",
+		"img":"campo-215"
 	},
 	{
-		"img":"campo-249",
 		"numero":"51030",
 		"descripcion":"MWMW BRASIL ARRANQUE M100R C\u00d3DIGO INDIEL 35261085",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE-INDIEL"
+		"equipo":"PRESTOLITE-INDIEL",
+		"img":"campo-216"
 	},
 	{
-		"img":"campo-250",
 		"numero":"51040",
 		"descripcion":"FIAT AGRI 7076",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA"
+		"equipo":"ISKRA",
+		"img":"campo-217"
 	},
 	{
-		"img":"campo-251",
 		"numero":"51041",
 		"descripcion":"TRACTOR NEW HOLLAND",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA CHECOSLOVACO"
+		"equipo":"ISKRA CHECOSLOVACO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-252",
 		"numero":"51050",
 		"descripcion":"ISKRA - LADA 2107 - LAIKA3 CAMPOS DE PLANCHUELA Y 1 AUXILIAR CORTO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"RUSO-ISKRA"
+		"equipo":"RUSO-ISKRA",
+		"img":"campo-218"
 	},
 	{
-		"img":"campo-253",
 		"numero":"51051",
 		"descripcion":"LADA RUSO-LAIKA 3 CAMPOS DE PLANCHUELA Y 1 AUXILIAR LARGO.giro izquierdo",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"RUSO-ISKRA"
+		"equipo":"RUSO-ISKRA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-254",
 		"numero":"51060",
 		"descripcion":"LAIKA 3 CAMPOS DE PLANCHUELA Y 1 AUXILIAR LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"RUSO-ISKRA"
+		"equipo":"RUSO-ISKRA",
+		"img":"campo-219"
 	},
 	{
-		"img":"campo-255",
 		"numero":"51070",
 		"descripcion":"TATA CAMION INDIO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA-INDIO"
+		"equipo":"ISKRA-INDIO",
+		"img":"campo-220"
 	},
 	{
-		"img":"campo-256",
 		"numero":"51070",
 		"descripcion":"LEVANTARAMPA 2 PRINCIPALES Y 2 AUXILIARES",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA"
+		"equipo":"ISKRA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-257",
 		"numero":"51072",
 		"descripcion":"ISKRA MOTOR ELECTRONICO (con escobillas)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA"
+		"equipo":"ISKRA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-258",
 		"numero":"51080",
 		"descripcion":"BOMBA PETROLERA CON MOTOR TURBO KAWASAKI CON AUXILIARES INTERNOS",
 		"voltaje":"42 Volts",
 		"campos":"6 Campos",
-		"equipo":"KAWASAKI"
+		"equipo":"KAWASAKI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-259",
 		"numero":"51100",
 		"descripcion":"LUCAS M 50",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"campo-222"
 	},
 	{
-		"img":"campo-260",
 		"numero":"51110",
 		"descripcion":"LUCAS M 50 CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"campo-223"
 	},
 	{
-		"img":"campo-261",
 		"numero":"51120",
 		"descripcion":"MAHINDRA - JEEP N 26925165 A-7-94-25M-114",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS-TUS-INDIO"
+		"equipo":"LUCAS-TUS-INDIO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-262",
 		"numero":"51125",
 		"descripcion":"LUCAS TRACTOR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-263",
 		"numero":"51130",
 		"descripcion":"PERKINS 3 M 127 CON ESCOBILLAS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"campo-225"
 	},
 	{
-		"img":"campo-264",
 		"numero":"51135",
 		"descripcion":"TATA CAMION INDIO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS-INDIO"
+		"equipo":"LUCAS-INDIO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-265",
 		"numero":"51136",
 		"descripcion":"TATA CAMION INDIO (GIRO IZQUIERDO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"LUCAS-INDIO"
+		"equipo":"LUCAS-INDIO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-266",
 		"numero":"51140",
 		"descripcion":"FIAT TIPO - DUNA - DUCATTO - TEMPRA - NAFTERO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"campo-226"
 	},
 	{
-		"img":"campo-267",
 		"numero":"51150",
 		"descripcion":"FIAT DUCATTO CON ESCOBILLAS Y REDUCCI\u00d3N",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"campo-227"
 	},
 	{
-		"img":"campo-268",
 		"numero":"51160",
 		"descripcion":"FIAT PALIO - SIENA - PEUGEOT BOXER",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI-VALEO"
+		"equipo":"MARELLI-VALEO",
+		"img":"campo-228"
 	},
 	{
-		"img":"campo-269",
 		"numero":"51160",
 		"descripcion":"FIAT PALIO - SIENA - PEUGEOT BOXER (CON PLAQUETA)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI-VALEO"
+		"equipo":"MARELLI-VALEO",
+		"img":"campo-228"
 	},
 	{
-		"img":"campo-270",
 		"numero":"51161",
 		"descripcion":"ARRANQUE MARELLI PALIO GASOLERO SIENA1.3 MP1",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-271",
 		"numero":"51165",
 		"descripcion":"MARELLI FIAT PALIO-SIENA 1.3 M.P.I.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-272",
 		"numero":"51170",
 		"descripcion":"FIAT PALIO - SIENA 16 VALVULAS CON MOTOR LANCIA NAFTERO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"campo-229"
 	},
 	{
-		"img":"campo-273",
 		"numero":"51180",
 		"descripcion":"FIAT PALIO - SIENA - DUNA 1.3 CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"campo-230"
 	},
 	{
-		"img":"campo-274",
 		"numero":"51190",
 		"descripcion":"FIAT REGATTA 2000 CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"campo-231"
 	},
 	{
-		"img":"campo-275",
 		"numero":"51195",
 		"descripcion":"TRACTOR FIAT 780 PRINCIPAL",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-276",
 		"numero":"51200",
 		"descripcion":"FIAT 643 PRINCIPAL",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-277",
 		"numero":"51201",
 		"descripcion":"ALFA ROMEO GIULIETTA TI 1300 MODELO 1961",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-278",
 		"numero":"51202",
 		"descripcion":"FIAT IVECO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-279",
 		"numero":"51205",
 		"descripcion":"RENAULT 12 URUGAUY",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MARELLI-URUGUAY"
+		"equipo":"MARELLI-URUGUAY",
+		"img":"campo-233"
 	},
 	{
-		"img":"campo-280",
 		"numero":"51210",
 		"descripcion":"AUTOELEVADOR NISSAN (GIRO DERECHO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"campo-234"
 	},
 	{
-		"img":"campo-281",
 		"numero":"51220",
 		"descripcion":"AUTOELEVADOR NISSAN (GIRO IZQUIERDO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"campo-235"
 	},
 	{
-		"img":"campo-282",
 		"numero":"51230",
 		"descripcion":"GENERADOR ONAN-PRAT 191-1949-04",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"campo-236"
 	},
 	{
-		"img":"campo-283",
 		"numero":"51230",
 		"descripcion":"MOTOR ONAN MOTO SOLDADORA P216GIRO IZQUIRDO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-284",
 		"numero":"51231",
 		"descripcion":"HITACHI S25-125A-23300-DODGE RAM",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-285",
 		"numero":"51232",
 		"descripcion":"PEUGEOT 206-306-307.",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-286",
 		"numero":"51235",
 		"descripcion":"COMAXU",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-287",
 		"numero":"51240",
 		"descripcion":"BORGWARD TURBO 2.5 C\u00d3DIGO 41100000",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NASHVILLE"
+		"equipo":"NASHVILLE",
+		"img":"campo-237"
 	},
 	{
-		"img":"campo-288",
 		"numero":"51250",
 		"descripcion":"BORGWARD 2.5 REFORMA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NASHVILLE"
+		"equipo":"NASHVILLE",
+		"img":"campo-238"
 	},
 	{
-		"img":"campo-289",
 		"numero":"51260",
 		"descripcion":"DEUTZ 4 PS MOTOR PERKINS (411001100)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NASHVILLE"
+		"equipo":"NASHVILLE",
+		"img":"campo-239"
 	},
 	{
-		"img":"campo-290",
 		"numero":"51270",
 		"descripcion":"DEUTZ 913 4 HP - FIAT TURBO 4 PS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NASHVILLE"
+		"equipo":"NASHVILLE",
+		"img":"campo-240"
 	},
 	{
-		"img":"campo-291",
 		"numero":"51275",
 		"descripcion":"FIAT 150 4 HP 480000004",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NASHVILLE"
+		"equipo":"NASHVILLE",
+		"img":"campo-241"
 	},
 	{
-		"img":"campo-292",
 		"numero":"51277",
 		"descripcion":"RETRO ESCARVADORA MOT. KATMATHSU  MOTOR N\u00ba SA.6.D-125E",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NICO"
+		"equipo":"NICO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-293",
 		"numero":"51280",
 		"descripcion":"NISSAN CAMION 3 CAMPOS DE PLANCHUELA Y 1 AUXILIAR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NISSAN"
+		"equipo":"NISSAN",
+		"img":"campo-242"
 	},
 	{
-		"img":"campo-294",
 		"numero":"51290",
 		"descripcion":"NISSAN CORTO",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NISSAN"
+		"equipo":"NISSAN",
+		"img":"campo-243"
 	},
 	{
-		"img":"campo-295",
 		"numero":"51290",
 		"descripcion":"NISSAN CORTO GIRO IZQUIERDO",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NISSAN"
+		"equipo":"NISSAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-296",
 		"numero":"51300",
 		"descripcion":"NISSAN MONTACARGAS CLARK",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NISSAN"
+		"equipo":"NISSAN",
+		"img":"campo-244"
 	},
 	{
-		"img":"campo-297",
 		"numero":"51310",
 		"descripcion":"CHEVETTE MONZA DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-245"
 	},
 	{
-		"img":"campo-298",
 		"numero":"51311",
 		"descripcion":"CHEVETTE MONZA DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-299",
 		"numero":"51320",
 		"descripcion":"CHEVROLET LUV - PICK UP - NISSAN - TOYOTA - DINA - CHEVETTE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-246"
 	},
 	{
-		"img":"campo-300",
 		"numero":"51321",
 		"descripcion":"CUMMINS GRUPO ELECTROGENO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-301",
 		"numero":"51330",
 		"descripcion":"DAIHATSU (28000-37503) - DATSUN 1600 - HONDA ACTI CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-247"
 	},
 	{
-		"img":"campo-302",
 		"numero":"51340",
 		"descripcion":"DAIHATSU DELTA CAMION TOYOTA CON MOTOR B 1",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-248"
 	},
 	{
-		"img":"campo-303",
 		"numero":"51350",
 		"descripcion":"DAIHATSU CAMION DIESEL 2 PRINCIPALES Y 2 AUXILIARES",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-249"
 	},
 	{
-		"img":"campo-304",
 		"numero":"51360",
 		"descripcion":"DATSUN 120 A CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-305",
 		"numero":"51365",
 		"descripcion":"DATSUN MONTACARGAS NAFTERO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-306",
 		"numero":"51370",
 		"descripcion":"DATSUN O MAZDA GRANDE",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-251"
 	},
 	{
-		"img":"campo-307",
 		"numero":"51380",
 		"descripcion":"DAIHATSU GIRO DERECHO (2 PRICIPALES Y 2 AUXILIARES)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-252"
 	},
 	{
-		"img":"campo-308",
 		"numero":"51390",
 		"descripcion":"HONDA ACCORD CON 2 ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-309",
 		"numero":"51400",
 		"descripcion":"HONDA ACTI COD. (028000-54670) - MAZDA COD. 2800-87503 CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-254"
 	},
 	{
-		"img":"campo-310",
 		"numero":"51410",
 		"descripcion":"ISUZU DIESEL 1.8",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-255"
 	},
 	{
-		"img":"campo-311",
 		"numero":"51420",
 		"descripcion":"ISUZU 3.1 Y CHEVROLET LUV GIRO IZQUIERDO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-256"
 	},
 	{
-		"img":"campo-312",
 		"numero":"51421",
 		"descripcion":"CHEVROLET COM CAMIONETA\/CAMION MOTOR IZUZU EZR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-313",
 		"numero":"51430",
 		"descripcion":"JOHN DEERE CON REDUCCI\u00d3N",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-257"
 	},
 	{
-		"img":"campo-314",
 		"numero":"51435",
 		"descripcion":"JOHN DEERE CON REDUCCI\u00d3N",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-315",
 		"numero":"51440",
 		"descripcion":"AUTOELEVADOR CLARK motor MITSUBISHI 2000",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-258"
 	},
 	{
-		"img":"campo-316",
 		"numero":"51441",
 		"descripcion":"AUTOELEVADOR ELECTRONICO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-317",
 		"numero":"51450",
 		"descripcion":"MAZDA 3000 - MITSUBISHI - SAPPORO SUPERA - TURING 2000 CON ESCOBILAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-259"
 	},
 	{
-		"img":"campo-318",
 		"numero":"51460",
 		"descripcion":"MAZDA CON REDUCCI\u00d3N (SALIDA AL CENTRO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-260"
 	},
 	{
-		"img":"campo-319",
 		"numero":"51461",
 		"descripcion":"MAZDA RX7",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-320",
 		"numero":"51465",
 		"descripcion":"MAZDA ISUZU AUTO ELEVADOR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-321",
 		"numero":"51470",
 		"descripcion":"MITSUBISHI COLT O FORD LAZER CON ESCOBILLAS.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-261"
 	},
 	{
-		"img":"campo-322",
 		"numero":"51471",
 		"descripcion":"MITSUBISHI COLT O FORD LAZER CON ESCOBILLAS.giro izquierdo",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-323",
 		"numero":"51475",
 		"descripcion":"MITSUBISHI COLT O FORD LAZER LARGO CON ESCOBILLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-324",
 		"numero":"51480",
 		"descripcion":"MITSUBISHI COLT L-100 L-200 L-300 - MAZDA - KOMBI 1600 (CON ESCOBILLAS)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-262"
 	},
 	{
-		"img":"campo-325",
 		"numero":"51481",
 		"descripcion":"MITSUBISHI COLT L-200, L-300 - MAZDA - KOMBI 1600 CON ESCOBILLAS GIRO IZQUIERDO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-326",
 		"numero":"51490",
 		"descripcion":"MITSUBISHI CANTER CAMION - MITSUBISHI - LANZER MONTACARGAS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-263"
 	},
 	{
-		"img":"campo-327",
 		"numero":"51500",
 		"descripcion":"MITSUBHISHI CAMION",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-264"
 	},
 	{
-		"img":"campo-328",
 		"numero":"51510",
 		"descripcion":"MITSUBHISHI AUTO ELEVADOR  MONTACARGAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-265"
 	},
 	{
-		"img":"campo-329",
 		"numero":"51515",
 		"descripcion":"MITSUBISHI MONTACARGAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"MITSUBISHI"
+		"equipo":"MITSUBISHI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-330",
 		"numero":"51520",
 		"descripcion":"MITSUBISHI COCHE y CAMION",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-266"
 	},
 	{
-		"img":"campo-331",
 		"numero":"51525",
 		"descripcion":"MITSUBISHI MONTACARGAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-332",
 		"numero":"51530",
 		"descripcion":"MITSUBISHI MONTACARGAS - TOYOTA CON ESCOBILLAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-267"
 	},
 	{
-		"img":"campo-333",
 		"numero":"51540",
 		"descripcion":"MITSUBISHI PICK-UP",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-268"
 	},
 	{
-		"img":"campo-334",
 		"numero":"51550",
 		"descripcion":"MITSUBISHI - MAZDA- DATSUN - PRINCIPAL Y AUXILIARES",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-269"
 	},
 	{
-		"img":"campo-335",
 		"numero":"51560",
 		"descripcion":"MITSUBISHI CANTER CAMION-RENAULT MASTER",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-270"
 	},
 	{
-		"img":"campo-336",
 		"numero":"51565",
 		"descripcion":"RENAULT MITSUBISHI CAMION",
 		"voltaje":"24volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-337",
 		"numero":"51570",
 		"descripcion":"MITSUBISHI CANTER CAMION",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-271"
 	},
 	{
-		"img":"campo-338",
 		"numero":"51575",
 		"descripcion":"VOLVO CAMION MODELO NUEVO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-339",
 		"numero":"51580",
 		"descripcion":"AUTOELEVADOR MITSUBISHI",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-272"
 	},
 	{
-		"img":"campo-340",
 		"numero":"51581",
 		"descripcion":"MITSUBISHI",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-341",
 		"numero":"51590",
 		"descripcion":"AUTOELEVADOR MITSUBISHI",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-273"
 	},
 	{
-		"img":"campo-342",
 		"numero":"51600",
 		"descripcion":"NISSAN",
 		"voltaje":"12\/24 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-274"
 	},
 	{
-		"img":"campo-343",
 		"numero":"51610",
 		"descripcion":"NISSAN CON ESCOBILLAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-275"
 	},
 	{
-		"img":"campo-344",
 		"numero":"51620",
 		"descripcion":"NISSAN - MAZDA CON REDUCTOR",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-276"
 	},
 	{
-		"img":"campo-345",
 		"numero":"51630",
 		"descripcion":"NISSAN LARGO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-277"
 	},
 	{
-		"img":"campo-346",
 		"numero":"51640",
 		"descripcion":"NISSAN",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-278"
 	},
 	{
-		"img":"campo-347",
 		"numero":"51645",
 		"descripcion":"OTAWA CON 2 AUXILIARES",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-348",
 		"numero":"51650",
 		"descripcion":"NISSAN",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-279"
 	},
 	{
-		"img":"campo-349",
 		"numero":"51660",
 		"descripcion":"NISSAN VANETTE",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-280"
 	},
 	{
-		"img":"campo-350",
 		"numero":"51661",
 		"descripcion":"NISSAN",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-351",
 		"numero":"51680",
 		"descripcion":"TOYOTA CELICA CORTO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-281"
 	},
 	{
-		"img":"campo-352",
 		"numero":"51690",
 		"descripcion":"TOYOTA 2000 PICK-UP 28100-34070",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-282"
 	},
 	{
-		"img":"campo-353",
 		"numero":"51700",
 		"descripcion":"TOYOTA 2200 DIESEL (28100-54061 R)",
 		"voltaje":"12volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-283"
 	},
 	{
-		"img":"campo-354",
 		"numero":"51702",
 		"descripcion":"TOYOTA 2000 PICK-UP 28100-34070",
 		"voltaje":"24 Volts",
 		"campos":"4 Camos",
-		"equipo":"NIPONDENSO"
+		"equipo":"NIPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-355",
 		"numero":"51710",
 		"descripcion":"TOYOTA CELICA O COROLA",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-356",
 		"numero":"51720",
 		"descripcion":"TOYOTA CON REDUCCI\u00d3N (SALIDA  AL COSTADO)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-285"
 	},
 	{
-		"img":"campo-357",
 		"numero":"51730",
 		"descripcion":"TOYOTA CON REDUCCI\u00d3N (SALIDA  AL CENTRO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-286"
 	},
 	{
-		"img":"campo-358",
 		"numero":"51735",
 		"descripcion":"TOYOTA CERRADO-ISUZU MAZDA",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-359",
 		"numero":"51740",
 		"descripcion":"TOYOTA",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"campo-287"
 	},
 	{
-		"img":"campo-360",
 		"numero":"51741",
 		"descripcion":"LANCHA MOTOR MITSUBISHI",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-361",
 		"numero":"51742",
 		"descripcion":"TOYOTA GILUN",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-362",
 		"numero":"51743",
 		"descripcion":"JUEYIN",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-363",
 		"numero":"51750",
 		"descripcion":"TOYOTA CON REDUCCI\u00d3N ABIERTO, (SALIDA AL MEDIO)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-364",
 		"numero":"51751",
 		"descripcion":"TOYOTA CON REDUCCI\u00d3N ABIERTO (SALIDA AL MEDIO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-365",
 		"numero":"51755",
 		"descripcion":"TOYOTA (2 PRINCIPALES Y 2 AUXILIARES)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-366",
 		"numero":"51770",
 		"descripcion":"CITROEN VISADSE 154 S",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-288"
 	},
 	{
-		"img":"campo-367",
 		"numero":"51780",
 		"descripcion":"CITTROEN SUPER DSE 107",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-289"
 	},
 	{
-		"img":"campo-368",
 		"numero":"51790",
 		"descripcion":"CITROEN VISA 4 - RENAUL 5",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-290"
 	},
 	{
-		"img":"campo-369",
 		"numero":"51800",
 		"descripcion":"CITROEN CX PALLAS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-291"
 	},
 	{
-		"img":"campo-370",
 		"numero":"51810",
 		"descripcion":"PANHARI N D10-E69",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-371",
 		"numero":"51820",
 		"descripcion":"PEUGEOT 504 NAFTERO E.124",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-293"
 	},
 	{
-		"img":"campo-372",
 		"numero":"51830",
 		"descripcion":"PEUGEOT D9 E 36",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-294"
 	},
 	{
-		"img":"campo-373",
 		"numero":"51840",
 		"descripcion":"PEUGEOT D9E 156 9 (REFORZADO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-295"
 	},
 	{
-		"img":"campo-374",
 		"numero":"51845",
 		"descripcion":"ARRANQUE RENAUL MEDALLON",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-375",
 		"numero":"51850",
 		"descripcion":"PEUGEOT GASOLERO (REFORZADO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-296"
 	},
 	{
-		"img":"campo-376",
 		"numero":"51860",
 		"descripcion":"RENAUL 18 Y FUEGO - DACIA CON ESCOBILLAS Y SALIDA COMPLATA",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-297"
 	},
 	{
-		"img":"campo-377",
 		"numero":"51870",
 		"descripcion":"RENAULT 18 Y FUEGO - DACIA - Con escobillas y salida completa. REFORZADO para GNC",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-298"
 	},
 	{
-		"img":"campo-378",
 		"numero":"51880",
 		"descripcion":"ARGELITE (2 CAMPOS PRINCIPALES y 1 AUXILIAR)",
 		"voltaje":"12 volts",
 		"campos":"3 Campos",
-		"equipo":"PRESTOLITE"
+		"equipo":"PRESTOLITE",
+		"img":"campo-299"
 	},
 	{
-		"img":"campo-379",
 		"numero":"51890",
 		"descripcion":"ARGELITE (3 CAMPOS DE PLANCHUELA Y 1 AUXILIAR)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"campo-300"
 	},
 	{
-		"img":"campo-380",
 		"numero":"51891",
 		"descripcion":"ARGELITE.3 campos planchuela y 1 auxiliar",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"PRESTOLITE"
+		"equipo":"PRESTOLITE",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-381",
 		"numero":"51900",
 		"descripcion":"BORWARD TURBO 2.5",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"RHOER"
+		"equipo":"RHOER",
+		"img":"campo-301"
 	},
 	{
-		"img":"campo-382",
 		"numero":"51910",
 		"descripcion":"BORWARD TURBO 2.6",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"RHOER"
+		"equipo":"RHOER",
+		"img":"campo-302"
 	},
 	{
-		"img":"campo-383",
 		"numero":"51920",
 		"descripcion":"SHANGAY TRACTOR",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"SHANGAY"
+		"equipo":"SHANGAY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-384",
 		"numero":"51930",
 		"descripcion":"GRUA CATO (REFORZADO)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"SAWAFUJI"
+		"equipo":"SAWAFUJI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-385",
 		"numero":"51940",
 		"descripcion":"AUTO UNI\u00d3N D. - PEUGEOT 403",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"campo-305"
 	},
 	{
-		"img":"campo-386",
 		"numero":"51950",
 		"descripcion":"CITTROEN 2CV DBL 20",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"campo-306"
 	},
 	{
-		"img":"campo-387",
 		"numero":"51960",
 		"descripcion":"CITROEN 3CV",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"campo-307"
 	},
 	{
-		"img":"campo-388",
 		"numero":"51970",
 		"descripcion":"SIMCA",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-389",
 		"numero":"51971",
 		"descripcion":"ARRANQUE AIRE ACONDICIONADO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-390",
 		"numero":"51972",
 		"descripcion":"EQUIPO DE FRIO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-391",
 		"numero":"51980",
 		"descripcion":"JHOMAR - FRIO TERMOKING 2 CILINDROS",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"campo-309"
 	},
 	{
-		"img":"campo-392",
 		"numero":"51981",
 		"descripcion":"BARREDORA VIAL",
 		"voltaje":"36 Volts",
 		"campos":"4 Campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-393",
 		"numero":"51985",
 		"descripcion":"LEVANTA RAMPAS(COLECTIVO) 2 campos planchuela y 2 auxiliar.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"TREPEL ALEMAN"
+		"equipo":"TREPEL ALEMAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-394",
 		"numero":"51990",
 		"descripcion":"DODGE \/4 CAMPOS DE PLANCHUELA)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA-CHRYSLER"
+		"equipo":"TRIA-CHRYSLER",
+		"img":"campo-310"
 	},
 	{
-		"img":"campo-395",
 		"numero":"52000",
 		"descripcion":"DODGE 1500 - PEUGEOT 404-504 LARGO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA FEMSACO"
+		"equipo":"TRIA FEMSACO",
+		"img":"campo-311"
 	},
 	{
-		"img":"campo-396",
 		"numero":"52010",
 		"descripcion":"DODGE 1500 (LARGO) Con salida pasacables y escobilla",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"campo-312"
 	},
 	{
-		"img":"campo-397",
 		"numero":"52020",
 		"descripcion":"FORD ESCORT COLECTOR FRONTAL. Con escobillas",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"campo-313"
 	},
 	{
-		"img":"campo-398",
 		"numero":"52030",
 		"descripcion":"VOLKSWAGEN GACEL - RENAULT 9-11-12-21-TRAFICC. Con salida pasacables y escobilla",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"campo-314"
 	},
 	{
-		"img":"campo-399",
 		"numero":"52040",
 		"descripcion":"VOLKSWAGEN GACEL - RENAULT 9-11-12-21-TRAFICC. REFORZADO PARA EQUIPO GNC",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-400",
 		"numero":"52050",
 		"descripcion":"TRIA (COD. 3024-MAC) Para DODGE 1500 - RANAULT 4-6-12 -FIAT 128 - PEUGEOT 404-504 - VW KOMBI",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"campo-316"
 	},
 	{
-		"img":"campo-401",
 		"numero":"52080",
 		"descripcion":"VOLKSWAGEN CARAT CON ESCOBILLAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"TRIA"
+		"equipo":"TRIA",
+		"img":"campo-317"
 	},
 	{
-		"img":"campo-402",
 		"numero":"52090",
 		"descripcion":"3STAR CAMIONES (2 PRINCIPALES Y 1 AUXILIAR)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"3STAR"
+		"equipo":"3STAR",
+		"img":"campo-318"
 	},
 	{
-		"img":"campo-403",
 		"numero":"52091",
 		"descripcion":"3STAR CAMIONES (2 PRINCIPALES Y 1 AUXILIAR)",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"3STAR"
+		"equipo":"3STAR",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-404",
 		"numero":"52100",
 		"descripcion":"RENAULT 19 DIESEL - CLIO - PEUGEOT 405 - CITROEN CON REDUCCI\u00d3N",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"campo-319"
 	},
 	{
-		"img":"campo-405",
 		"numero":"52100",
 		"descripcion":"RENAULT 19 DIESEL - CLIO - PEUGEOT 405 - CITROEN CON REDUCCI\u00d3N (CON PLAQUETA)",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-406",
 		"numero":"52105",
 		"descripcion":"PEUGEOT 206",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-407",
 		"numero":"52110",
 		"descripcion":"PEUGEOT 405 FRONTAL",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"campo-320"
 	},
 	{
-		"img":"campo-408",
 		"numero":"52130",
 		"descripcion":"RENAULT TRAFICC DIESEL VALEO DR9 REDUCCI\u00d3N CON ESCOBILLAS",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"campo-321"
 	},
 	{
-		"img":"campo-409",
 		"numero":"52130",
 		"descripcion":"RENAULT TRAFICC DIESEL VALEO DR9 REDUCCI\u00d3N CON ESCOBILLAS (CON PLAQUETA)",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"VALEO"
+		"equipo":"VALEO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-410",
 		"numero":"52150",
 		"descripcion":"PERKINS C10 - CASE - CBT - CLARK - DODGE - FORD - CHEVROLET con motor MWM 4 y 6 cilindros.",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WAPSA"
+		"equipo":"WAPSA",
+		"img":"campo-322"
 	},
 	{
-		"img":"campo-411",
 		"numero":"52160",
 		"descripcion":"PERKINS C10 - CLARK - DODGE - FORD - CHEVROLET - VALMET con motor MWM con escobillas",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WAPSA"
+		"equipo":"WAPSA",
+		"img":"campo-323"
 	},
 	{
-		"img":"campo-412",
 		"numero":"52180",
 		"descripcion":"VOLKSAWAGEN SANTANA MW B-25",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WAPSA"
+		"equipo":"WAPSA",
+		"img":"campo-324"
 	},
 	{
-		"img":"campo-413",
 		"numero":"52200",
 		"descripcion":"VOLKSWAGEN SAVEIRO DIESEL",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WAPSA"
+		"equipo":"WAPSA",
+		"img":"campo-325"
 	},
 	{
-		"img":"campo-414",
 		"numero":"52210",
 		"descripcion":"BLACK CAMION CHICO",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"campo-326"
 	},
 	{
-		"img":"campo-415",
 		"numero":"52220",
 		"descripcion":"BLACK CAMION CHICO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"campo-327"
 	},
 	{
-		"img":"campo-416",
 		"numero":"52230",
 		"descripcion":"BLACK CAMION CHICO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"campo-328"
 	},
 	{
-		"img":"campo-417",
 		"numero":"52235",
 		"descripcion":"CAMION CHINO",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-418",
 		"numero":"52240",
 		"descripcion":"NIKO AUTOELEVADOR CLARCK",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-419",
 		"numero":"52250",
 		"descripcion":"JUEYIN CAMION CHINO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"campo-331"
 	},
 	{
-		"img":"campo-420",
 		"numero":"52255",
 		"descripcion":"JUAEYIN MAQUINA CHINA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-421",
 		"numero":"52256",
 		"descripcion":"JUAEYIN MAQUINA CHINA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-422",
 		"numero":"52260",
 		"descripcion":"JUEYIN con motor NIKO",
 		"voltaje":"12\/24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"campo-332"
 	},
 	{
-		"img":"campo-423",
 		"numero":"52270",
 		"descripcion":"JUEYIN CAMION CHINO",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-424",
 		"numero":"52275",
 		"descripcion":"CAMION CHINO (2 PRINCIPALES Y 2 AUXILIARES)",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-425",
 		"numero":"52280",
 		"descripcion":"HILLMAN",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-426",
 		"numero":"52290",
 		"descripcion":"KOMATSU MONTACARGAS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-427",
 		"numero":"52300",
 		"descripcion":"RENAULT 13 V",
 		"voltaje":"12 volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"campo-336"
 	},
 	{
-		"img":"campo-428",
 		"numero":"52310",
 		"descripcion":"LEVATA RAMPA OMNIBUS 2 AUXILIARES 2 PRINCIPALES",
 		"voltaje":"24 volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"campo-337"
 	},
 	{
-		"img":"campo-429",
 		"numero":"55513",
 		"descripcion":"B.N.G. REFORZADO ESPECIAL ARGON",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-430",
 		"numero":"55517",
 		"descripcion":"B.N.G. REFORZADO (ARGON)",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-431",
 		"numero":"55531",
 		"descripcion":"V.P.S. VOLVO - PEGASO - SKODA",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-432",
 		"numero":"55541",
 		"descripcion":"C.A.V. LEYLAND",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"C.A.V."
+		"equipo":"C.A.V.",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-433",
 		"numero":"55545",
 		"descripcion":"C.A.V. F239",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"C.A.V."
+		"equipo":"C.A.V.",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-434",
 		"numero":"55563",
 		"descripcion":"FIAT 619 N",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-435",
 		"numero":"55564",
 		"descripcion":"FIAT 642 N 2",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-436",
 		"numero":"55567",
 		"descripcion":"FIAT 643",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-437",
 		"numero":"55571",
 		"descripcion":"FIAT 682",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-438",
 		"numero":"55572",
 		"descripcion":"FIAT 780R TRACTOR",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-439",
 		"numero":"55573",
 		"descripcion":"FIAT SOMECA TRACTOR",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-440",
 		"numero":"55575",
 		"descripcion":"FIAT 411 TRACTOR",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-441",
 		"numero":"55576",
 		"descripcion":"FIAT 1500",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT O GAREF"
+		"equipo":"FIAT O GAREF",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-442",
 		"numero":"55580",
 		"descripcion":"FORD F-100 ; F-350 ; F-600 ; F-900",
 		"voltaje":"12 volts",
 		"campos":"1 Campo",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-443",
 		"numero":"55584",
 		"descripcion":"HONOMAG",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-444",
 		"numero":"55645",
 		"descripcion":"SCANIA VABIS M. 66 (REFORZADO)",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"C.A.V."
+		"equipo":"C.A.V.",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-445",
 		"numero":"55678",
 		"descripcion":"FIAT 125 IMPORTADO",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-446",
 		"numero":"552010",
 		"descripcion":"AUTO UNI\u00d3N L.J\/G.E.H.",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-447",
 		"numero":"552020",
 		"descripcion":"BEDFORD DIESEL IKA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-448",
 		"numero":"552030",
 		"descripcion":"BEDFORD DIESEL",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-449",
 		"numero":"552030",
 		"descripcion":"BEDFORD",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-450",
 		"numero":"552035",
 		"descripcion":"BERGATIN IKA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-451",
 		"numero":"552040",
 		"descripcion":"BORGWARD L.J\/G.E.H.",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-452",
 		"numero":"552054",
 		"descripcion":"CITR\u00d6EN",
 		"voltaje":"6 Volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-453",
 		"numero":"552055",
 		"descripcion":"CITR\u00d6EN",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"TAMATEL"
+		"equipo":"TAMATEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-454",
 		"numero":"552080",
 		"descripcion":"CHEVROLET 40 - 80 REFORMA A 12V",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-455",
 		"numero":"552090",
 		"descripcion":"CHEVROLET 400",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-456",
 		"numero":"552100",
 		"descripcion":"DEUTZ 30 - 45 L.J\/S.J.J.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-457",
 		"numero":"552110",
 		"descripcion":"DEUTZ 60 - 75 L.J.\/S.K.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-458",
 		"numero":"552119",
 		"descripcion":"FIAT 600 B 90",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-459",
 		"numero":"552139",
 		"descripcion":"FIAT TRACTOR 411 D 115",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-460",
 		"numero":"552142",
 		"descripcion":"FIAT TRACTOR 780",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-461",
 		"numero":"552150",
 		"descripcion":"FIAT 682 D 115",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-462",
 		"numero":"552155",
 		"descripcion":"FIAT 780 D 90",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-463",
 		"numero":"552158",
 		"descripcion":"FIAT 780 D 115",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-464",
 		"numero":"552165",
 		"descripcion":"FIAT 1100",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-465",
 		"numero":"552175",
 		"descripcion":"FIAT 1500 D 115",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"FIAT"
+		"equipo":"FIAT",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-466",
 		"numero":"552220",
 		"descripcion":"FORD CAMION",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-467",
 		"numero":"552225",
 		"descripcion":"FORD FALCON",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-468",
 		"numero":"552235",
 		"descripcion":"FORD TAUNUS L.J.\/G.E.H.",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-469",
 		"numero":"552253",
 		"descripcion":"HANOMAG R 40 - 45 - 55 L.J.\/G.J.J.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-470",
 		"numero":"552256",
 		"descripcion":"HANOMAG R 60 - 70 L.J\/G.K.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-471",
 		"numero":"552300",
 		"descripcion":"IKA",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-472",
 		"numero":"552305",
 		"descripcion":"IKA",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-473",
 		"numero":"552330",
 		"descripcion":"JOHN DEERE",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-474",
 		"numero":"552332",
 		"descripcion":"JONH DEERE",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-475",
 		"numero":"552334",
 		"descripcion":"JOHN DEERE 445",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-476",
 		"numero":"552335",
 		"descripcion":"JOHN DEERE",
 		"voltaje":"24 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-477",
 		"numero":"552354",
 		"descripcion":"LEYLAND F 221 OMNIBUS",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"C.A.V."
+		"equipo":"C.A.V.",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-478",
 		"numero":"552360",
 		"descripcion":"L.J\/G.K.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-479",
 		"numero":"552365",
 		"descripcion":"L.J\/G.K.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-480",
 		"numero":"552370",
 		"descripcion":"L.J\/G.K. CON RESISTENCIA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-481",
 		"numero":"552372",
 		"descripcion":"L.J\/G.Q.L.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-482",
 		"numero":"552373",
 		"descripcion":"L.J\/G.Q.L.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-483",
 		"numero":"552374",
 		"descripcion":"L.J\/G.Q.L. CON RESISTENCIA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-484",
 		"numero":"552405",
 		"descripcion":"MERCEDES BENZ 317 L.J\/G.T.L.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-485",
 		"numero":"552420",
 		"descripcion":"MERCEDES BENZ 3500 L.J\/G.K.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-486",
 		"numero":"552430",
 		"descripcion":"MERCEDES BENZ 6600 L.J\/G.K.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-487",
 		"numero":"552440",
 		"descripcion":"MERCEDES BENZ 321L.J\/G.Q.L.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-488",
 		"numero":"552450",
 		"descripcion":"MERCEDES BENZ 321L.J\/G.Q.L.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-489",
 		"numero":"552515",
 		"descripcion":"OPEL L.J\/G.E.H.",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-490",
 		"numero":"552530",
 		"descripcion":"PEUGEOT 403 - 404",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-491",
 		"numero":"552550",
 		"descripcion":"RAMBLER",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-492",
 		"numero":"552562",
 		"descripcion":"RASTROJERO L.J\/G.E.G.",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-493",
 		"numero":"552605",
 		"descripcion":"SCANIA VABIS CHICO L.J\/G.K.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-494",
 		"numero":"552610",
 		"descripcion":"SCANIA VABIS CHICO L.J\/G.K. CON RESISTENCIA",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-495",
 		"numero":"552615",
 		"descripcion":"SCANIA VABIS GRANDE L.J\/G.Q.L.",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-496",
 		"numero":"552660",
 		"descripcion":"VOLKSWAGWEN L.J\/G.E.H.",
 		"voltaje":"6 Volts",
 		"campos":"2 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-497",
 		"numero":"552740",
 		"descripcion":"ZETOR L.J\/G.K.",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-498",
 		"numero":"556001",
 		"descripcion":"IBER - FRIO",
 		"voltaje":"12 Volts",
 		"campos":"2 Campos",
-		"equipo":"FEMSA"
+		"equipo":"FEMSA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-499",
 		"numero":"55217",
 		"descripcion":"DINAMO VOLKSWAGEN BRASIL",
 		"voltaje":"12 volts",
 		"campos":"2 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-500",
 		"numero":"52221",
 		"descripcion":"JUEYIN CAMION CHINO",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-501",
-		"numero":"50880",
-		"descripcion":"PERKINS-MERCEDES BENZ JOHN DEERE EQ. AN 115 LARGO REFORZADO CON ARANDELAS Y AISLACION GIRO IZQUIERDO.",
-		"voltaje":"12 Volts",
-		"campos":"4campos",
-		"equipo":"INDIEL"
-	},
-	{
-		"img":"campo-502",
 		"numero":"50630",
 		"descripcion":"BEDFORD C.A 45C Y 45D PICK UP -CAMION DIESEL 350 C.A.45D- FIAT 650-10 TRACTOR C.A 45 REFORZADO GIRO IZQUIERDO",
 		"voltaje":"12 volts",
 		"campos":"4campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-503",
 		"numero":"5191",
 		"descripcion":"MERCEDES BENZ 220 DIESEL UNIMOG CORTO - OPEL ASCONAJE.puente de 1 agujero",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-504",
 		"numero":"51162",
 		"descripcion":"FIORINO DENSO",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-505",
-		"numero":"5",
-		"descripcion":"FIAT TIPO con motores 1.4 y 1.6 - RENAULT 9-11-12-21 - TRAFIC con escobillas con carbones",
-		"voltaje":"12 volts",
-		"campos":"4 Campos",
-		"equipo":"ARGELITE-URUGUAY"
-	},
-	{
-		"img":"campo-506",
 		"numero":"51705",
 		"descripcion":"TOYOYA 2200 DIESEL 28100-54061 R",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-507",
 		"numero":"51526",
 		"descripcion":"ARRANQUE KIA",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"JIUNDAY"
+		"equipo":"JIUNDAY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-508",
 		"numero":"51706",
 		"descripcion":"ARRANQUE TOYOTA AUTO ELEVADOR",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"Nipondenso"
+		"equipo":"Nipondenso",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-509",
 		"numero":"51521",
 		"descripcion":"MITSUBISHI COCHE Y CAMION CON CHICOTE",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-510",
 		"numero":"51501",
 		"descripcion":"MOTOR DE ARRANQUE MITSUBISHI PARA MERCEDES BENZ CARROCERIA O500",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-511",
 		"numero":"50246",
 		"descripcion":"MAQUINA CATERPILLER",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-512",
 		"numero":"51042",
 		"descripcion":"FIAT AGRI 7076",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"ISKRA"
+		"equipo":"ISKRA",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-513",
 		"numero":"51502",
 		"descripcion":"MITSUBISHI CANTER modelo viejo",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-514",
 		"numero":"51982",
 		"descripcion":"JHOMAR-FRIO TERMOKING 2 CILINDROS",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"TERMOKING"
+		"equipo":"TERMOKING",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-515",
 		"numero":"51781",
 		"descripcion":"CITROEN SUPER DSE 107 GIRO IZQUIERDO",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"PARIS RHONE"
+		"equipo":"PARIS RHONE",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-516",
 		"numero":"5380",
 		"descripcion":"PEUGEOT 205-405",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-517",
 		"numero":"51581",
 		"descripcion":"MITSUBISHI CON CHICOTE",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-518",
 		"numero":"51701",
 		"descripcion":"TOYOTA AUTO ELEVADOR",
 		"voltaje":"12 volts",
 		"campos":"",
-		"equipo":"NICOLAS AMATO"
+		"equipo":"NICOLAS AMATO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-519",
 		"numero":"50731",
 		"descripcion":"RENAULT CAMION GRANDE",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-520",
 		"numero":"5381",
 		"descripcion":"DELCO REMY MT 28 LARGO",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-521",
 		"numero":"51701",
 		"descripcion":"TOYOTA 2200 DIESEL (28100-54061 R) giro izquierdo",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-522",
 		"numero":"51631",
 		"descripcion":"NISSAN",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-523",
 		"numero":"51601",
 		"descripcion":"NISSAN",
 		"voltaje":"24volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-524",
 		"numero":"51602",
 		"descripcion":"NISSAN CENTRA SUPER SALON FULL 92.1.6 16 VALVULAS",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-525",
 		"numero":"51163",
 		"descripcion":"FIAT MAREA",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-526",
 		"numero":"50181",
 		"descripcion":"DELCO REMY 37 MT C\u00f3digo 10468110 - VOLKSWAGEN - FORD - CUMMINS - NAVISTAR",
 		"voltaje":"24volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-527",
 		"numero":"51591",
 		"descripcion":"AUTOELEVADOR MITSUBISHI",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-528",
 		"numero":"51043",
 		"descripcion":"TRACTOR NEW HOLLAND MEDIANO",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"ISKRA CHECOSLOVACO"
+		"equipo":"ISKRA CHECOSLOVACO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-529",
 		"numero":"52251",
 		"descripcion":"MAQUINA MISHI",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":"WIDIAN"
+		"equipo":"WIDIAN",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-530",
 		"numero":"5641",
 		"descripcion":"DELCO REMY CLARCK SALIDA LARGA",
 		"voltaje":"12 Volts",
 		"campos":"4 campos",
-		"equipo":"DELCO REMY"
+		"equipo":"DELCO REMY",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-531",
 		"numero":"",
 		"descripcion":"AN LARGO TOGNON",
 		"voltaje":"12 Volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-532",
 		"numero":"",
 		"descripcion":"AN LARGO TOGNON",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-533",
 		"numero":"",
 		"descripcion":"CUMMINS MEXICANO MT39  ESPECIAL",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-534",
 		"numero":"5844",
 		"descripcion":"MT 39 ESPECIAL GRANDE",
 		"voltaje":"24 Volts",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-535",
 		"numero":"",
 		"descripcion":"FERROCARRIL SINCAR",
 		"voltaje":"",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-536",
 		"numero":"",
 		"descripcion":"MT 38 CORTO",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-537",
 		"numero":"",
 		"descripcion":"MT 38 LARGO",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-538",
 		"numero":"",
 		"descripcion":"MT 38 CORTO (con carbones)",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-539",
 		"numero":"5845",
 		"descripcion":"MT 39 ESPECIAL CHICO",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-540",
 		"numero":"50881",
 		"descripcion":"PERKINS - MERCEDES BENZ - JOHN DEERE Eq. AN 115 LARGO (REFORZADO) CON ARANDELAS Y AISLACION",
 		"voltaje":"12 VOLTS",
 		"campos":"4 campos",
-		"equipo":"INDIEL"
+		"equipo":"INDIEL",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-541",
 		"numero":"51203",
 		"descripcion":"MITSUBISHI COLECTIVO VOLKSWAGEN Y MERCEDEZ,VOLVO",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":"Nipondenso"
+		"equipo":"Nipondenso",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-542",
 		"numero":"51641",
 		"descripcion":"NISSAN ESPECIAL UNA VUELTA MENOS",
 		"voltaje":"24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-543",
 		"numero":"6",
 		"descripcion":"MAGNETI MARELLI    LARGO",
 		"voltaje":"12 VOLTS",
 		"campos":"4 Campos",
-		"equipo":"MARELLI"
+		"equipo":"MARELLI",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-544",
 		"numero":"5495",
 		"descripcion":"SCANIA P 124",
 		"voltaje":"24volts",
 		"campos":"4 campos",
-		"equipo":"bosch"
+		"equipo":"bosch",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-545",
 		"numero":"51731",
 		"descripcion":"TOYOTA",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"nippondenso"
+		"equipo":"nippondenso",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-546",
 		"numero":"51721",
 		"descripcion":"TOYOTA CON REDUCCION (SALIDA AL COSTADO)",
 		"voltaje":"12volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-547",
 		"numero":"5501",
 		"descripcion":"SCANIA MODELO NUEVO",
 		"voltaje":"12\/24 volts",
 		"campos":"4 campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-548",
 		"numero":"51126",
 		"descripcion":"LUCAS TRACTOR",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"LUCAS"
+		"equipo":"LUCAS",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-549",
 		"numero":"5502",
 		"descripcion":"SCANIA MODELO NUEVO MEDIANO",
 		"voltaje":"12\/24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-550",
 		"numero":"5503",
 		"descripcion":"SCANIA MODELO NUEVO CHICO",
 		"voltaje":"12\/24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":"BOSCH"
+		"equipo":"BOSCH",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-551",
 		"numero":"51722",
 		"descripcion":"TOYOTA CON REDUCCION CON SALIDA AL COSTA Y ESCOBILLAS",
 		"voltaje":"12\/24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-552",
 		"numero":"5842",
 		"descripcion":"EQUIPO UNIFON MT28",
 		"voltaje":"24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":"UNIFON"
+		"equipo":"UNIFON",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-553",
 		"numero":"51501",
 		"descripcion":"MOTOR DE ARRANQUE MITSUBISHI PARA MERCEDES BENZ CARROCERIA O500",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"NIPPONDENSO"
+		"equipo":"NIPPONDENSO",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-554",
 		"numero":"",
 		"descripcion":"ARRANQUE DE CAMION HIUNDAI",
 		"voltaje":"24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	},
 	{
-		"img":"campo-555",
 		"numero":"52500",
 		"descripcion":"FORD 2012 BC 45 1100 IBA F002 G2 2904",
 		"voltaje":"24 VOLTS",
 		"campos":"4 CAMPOS",
-		"equipo":""
+		"equipo":"",
+		"img":"default-card"
 	}
 ]

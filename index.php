@@ -134,15 +134,29 @@ header('Content-Type: text/html; charset=UTF-8');
         <?php
 
             function makeArrayKeys($arrayProducts){
+                $arraytmpEquipos = array();
                 $arrayEquipos = array();
                 $arrayProduct = array();
                 $stringSearh = array(' ', 'ñ', 'Ñ', 'á', 'é', 'í', 'ó', 'ú', 'ü');
                 $stringReplace = array('', 'n', 'n', 'a', 'e', 'i', 'o', 'u', 'u');
                 foreach($arrayProducts as $key => $product){
                     $tmp = str_replace($stringSearh,$stringReplace,strtolower($product->equipo));
-                    $arrayEquipos[$tmp] = $product->equipo;
-                    $arrayProduct[$key] = $product;
-                    $arrayProduct[$key]->filter = $tmp;
+                    if($product->equipo != ''){
+                        $arraytmpEquipos[$tmp] = $product->equipo;
+                        $arrayProduct[$key] = $product;
+                        $arrayProduct[$key]->filter = $tmp;
+
+                    }
+                }
+
+                $totalColumns = 6;
+                $column = 1;
+                foreach($arraytmpEquipos as $key => $equipo){
+                    $arrayEquipos[$column][$key] = $equipo;
+                    $column++;
+                    if($column > $totalColumns){
+                        $column = 1;
+                    }
                 }
                 return array('keys' => $arrayEquipos, 'products' => $arrayProduct);
             }
@@ -173,12 +187,25 @@ header('Content-Type: text/html; charset=UTF-8');
                 <input class="btn-filtros" type="radio" name="filter" data-filter=".campo"> Campos
 
                 <div id="campo-filter">
-                    Filtrar por Marca de Campo
-                    <div>
-                        <?php foreach($camposFilter as $key => $filter){ ?>
-                            <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?>
+                    <div id ="wrapper-filter-carbones" class="wrapper-filter">
+                        <?php foreach($camposFilter as $filters){ ?>
+                            <div class="groupfilters">
+                                <?php foreach($filters as $key => $filter){ ?>
+                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?><br />
+                                <?php } ?>
+                            </div>
                         <?php } ?>
                     </div>
+                    <div id ="wrapper-filter-escobillas" class="wrapper-filter">
+                        <?php foreach($carbonesFilter as $filters){ ?>
+                            <div class="groupfilters">
+                                <?php foreach($filters as $key => $filter){ ?>
+                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?><br />
+                                <?php } ?>
+                            </div>
+                        <?php } ?>
+                    </div>
+                    <div style="clear: both"></div>
                 </div>
             </div>
             <div id="cards-wrapper">
@@ -198,7 +225,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         <div class="card grid-item element-item carbon <?php echo $carbon->filter ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></div>
                             <div class="img-wrapper">
-                                <img src="img/default-card-2.png" alt="Just Background">
+                                <img src="img/cards/escobillas/default-card-2.png" alt="Just Background">
                             </div>
                             <p class="detail"><?php echo $carbon->descripcion ?></p>
                             <p class="detail-campos"><?php echo $carbon->campos ?></p>

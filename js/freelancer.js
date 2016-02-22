@@ -57,19 +57,29 @@ $(document).ready(function() {
         }
     });
 
+    function showandhide(type){
+        $( '.wrapper-filter').hide("slow");
+        if(type === 'campos'){
+            $( '#wrapper-filter-carbones').show();
+        }else if(type === 'escobillas'){
+            $( '#wrapper-filter-escobillas').show();
+        }else{
+            $( '.wrapper-filter').hide("slow");
+        }
+    }
+
     $('.filter-button-group').on( 'click', '.btn-filtros', function() {
         var filterValue = $(this).attr('data-filter');
-        console.log(filterValue);
         $grid.isotope({ filter: filterValue });
         switch (filterValue){
             case '.campo':
-                $('#campo-filter').show();
+                showandhide('campos');
                 break;
             case '.carbon':
-                $('#campo-filter').hide();
+                showandhide('escobillas');
                 break;
             case '*':
-                $('#campo-filter').show();
+                showandhide('');
                 break;
         }
     });
