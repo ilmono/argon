@@ -97,4 +97,33 @@ $(document).ready(function() {
         $grid.isotope({ filter: filterValue });
     });
 
+    $('.filter-button-group').on( 'click', '.chk-filtros', function() {
+        var filterValue = '';
+        $('.chk-filtros:checked').each(function(){
+            if(filterValue === ''){
+                filterValue += '.' + $(this).attr('data-filter');
+            }else {
+                filterValue += ', .' + $(this).attr('data-filter');
+            }
+        });
+        console.log(filterValue);
+        $grid.isotope({ filter: filterValue });
+    });
+
+
+
 });
+
+
+/*Custom Fuctions*/
+function showandhidePedidos(type){
+    if(type === 'show'){
+        $('#link-realizar-pedidos').hide();
+        $('#link-cancelar-pedidos').show();
+        $('.container-pedido').slideDown();
+    }else{
+        $('#link-cancelar-pedidos').hide();
+        $('#link-realizar-pedidos').show();
+        $('.container-pedido').slideUp();
+    }
+}

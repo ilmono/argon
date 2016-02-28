@@ -234,6 +234,71 @@ header('Content-Type: text/html; charset=UTF-8');
                     <?php } ?>
                 </div>
             </div>
+            <div class="link-pedidos">
+                <a id="link-realizar-pedidos" onclick="showandhidePedidos('show')">Realizar Pedido <span class="glyphicon glyphicon-chevron-down"></span></a>
+                <a id="link-cancelar-pedidos" onclick="showandhidePedidos('hide')">Cancelar Pedido <span class="glyphicon glyphicon-chevron-up"></span></a>
+            </div>
+            <div class="container-pedido">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>Realizar Pedido</h2>
+                        <br />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <form name="sentMessage" id="contactForm" novalidate>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Nombre</label>
+                                    <input style="color: white !important; type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Por favor ingrese su Nombre.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Email</label>
+                                    <input style="color: white !important; type="text" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Por favor ingrese su Email.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Telefono</label>
+                                    <input style="color: white !important; type="tel" class="form-control" placeholder="Telefono" id="phone" required data-validation-required-message="Por favor ingrese su Telefono.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="list-group">
+                                    <a class="list-group-item">
+                                        <span class="glyphicon glyphicon-picture"></span> Imagenes <span class="badge">15</span>
+                                    </a>
+                                    <a class="list-group-item">
+                                        <span class="glyphicon glyphicon-folder-open"></span> Archivos <span class="badge"><input class="input-pedido" type="text"></span>
+                                    </a>
+                                    <a class="list-group-item">
+                                        <span class="glyphicon glyphicon-music"></span> Audios <span class="badge">10</span>
+                                    </a>
+                                    <a class="list-group-item">
+                                        <span class="glyphicon glyphicon-film"></span> Videos <span class="badge">8</span>
+                                    </a>
+                                    <a class="list-group-item">
+                                        <span class="glyphicon glyphicon-comment"></span> Mensajes <span class="badge">23</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <br>
+                            <div id="success"></div>
+                            <div class="row">
+                                <div class="form-group col-xs-12">
+                                    <button type="submit" class="btn btn-success btn-lg">Enviar</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -274,8 +339,6 @@ header('Content-Type: text/html; charset=UTF-8');
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
