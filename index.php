@@ -182,9 +182,10 @@ header('Content-Type: text/html; charset=UTF-8');
                 </div>
             </div>
             <div class="button-group filter-button-group">
-                <input class="btn-filtros" type="radio" name="filter" data-filter="*"> Ver todos
-                <input class="btn-filtros" type="radio" name="filter" data-filter=".carbon"> Escobillas
-                <input class="btn-filtros" type="radio" name="filter" data-filter=".campo"> Campos
+                <label><input class="btn-filtros" type="radio" name="filter" data-filter="*"> Ver todos </label>
+                <label><input class="btn-filtros" type="radio" name="filter" data-filter=".carbon"> Escobillas </label>
+                <label><input class="btn-filtros" type="radio" name="filter" data-filter=".campo"> Campos </label>
+                <input type="hidden" id="type-filter">
 
                 <div id="campo-filter">
                     <div id ="wrapper-filter-carbones" class="wrapper-filter">

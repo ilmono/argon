@@ -59,24 +59,37 @@ $(document).ready(function() {
 
     function showandhide(type){
         $( '.wrapper-filter').hide("slow");
+        $(".chk-filtros").prop("checked", false);
         if(type === 'campos'){
-            $( '#wrapper-filter-carbones').show();
+            $('#wrapper-filter-carbones').show();
+            $('#wrapper-filter-carbones').addClass('visible');
+            $('#wrapper-filter-escobillas').removeClass('visible');
         }else if(type === 'escobillas'){
             $( '#wrapper-filter-escobillas').show();
+            $('#wrapper-filter-escobillas').addClass('visible');
+            $('#wrapper-filter-carbones').removeClass('visible');
         }else{
             $( '.wrapper-filter').hide("slow");
+            $('#wrapper-filter-carbones').removeClass('visible');
+            $('#wrapper-filter-escobillas').removeClass('visible');
         }
     }
 
     $('.filter-button-group').on( 'click', '.btn-filtros', function() {
         var filterValue = $(this).attr('data-filter');
         $grid.isotope({ filter: filterValue });
+        $('#type-filter').val(filterValue);
         switch (filterValue){
             case '.campo':
-                showandhide('campos');
+                if(!$('#wrapper-filter-carbones').hasClass("visible")){
+                    showandhide('campos');
+                }
                 break;
             case '.carbon':
-                showandhide('escobillas');
+                console.log($('#wrapper-filter-escobillas').hasClass("visible"));
+                if(!$('#wrapper-filter-escobillas').hasClass("visible")){
+                    showandhide('escobillas');
+                }
                 break;
             case '*':
                 showandhide('');
@@ -86,11 +99,12 @@ $(document).ready(function() {
 
     $('.filter-button-group').on( 'click', '.chk-filtros', function() {
         var filterValue = '';
+        filterValueType = $('#type-filter').val();
         $('.chk-filtros:checked').each(function(){
             if(filterValue === ''){
-                filterValue += '.' + $(this).attr('data-filter');
+                filterValue += '.' + $(this).attr('data-filter') + filterValueType;
             }else {
-                filterValue += ', .' + $(this).attr('data-filter');
+                filterValue += ', .' + $(this).attr('data-filter') + filterValueType;
             }
         });
         console.log(filterValue);
@@ -127,3 +141,4 @@ function showandhidePedidos(type){
         $('.container-pedido').slideUp();
     }
 }
+
