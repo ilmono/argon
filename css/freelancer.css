@@ -481,8 +481,8 @@ footer .footer-below {
 .filter-button-group{
     padding: 20px;
 }
-.input-pedido{
-    width: 20px;
+.input-pedido-cantidad{
+    width: 60px;
     background: #2c3e50;
     border: none;
     text-align: center;
@@ -499,5 +499,9 @@ footer .footer-below {
 }
 
 .container-pedido{
-    display: none;
+    margin-top: 50px;
+}
+.btn_agregar{
+    margin-top: 10px;
+    margin-right: 10px;
 }
