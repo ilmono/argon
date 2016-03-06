@@ -245,6 +245,7 @@ header('Content-Type: text/html; charset=UTF-8');
                     <h3>Ubicacion y Telefonos</h3>
                     <p>Juncal 951, Aldo Bonzi, CP: 1770, Buenos Aires Argentina.</p>
                     <p>Telefonos: (5411) 4442-1145 / 4462-5499.</p>
+                    <p>Email: camposargon@hotmail.com</p>
                 </div>
             </div>
         </div>
