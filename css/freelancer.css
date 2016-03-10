@@ -168,7 +168,8 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    background-color: #233140;
+    background-color: #0064b6;
+    /*background-color: #233140;*/
 }
 
 section {
@@ -504,4 +505,18 @@ footer .footer-below {
 .btn_agregar{
     margin-top: 10px;
     margin-right: 10px;
+}
+
+#wraper-logo{
+    height: 70px;
+}
+
+.logo{
+    width: 198px;
+    height: 74px;
+    position: absolute;
+}
+.video-wrapper{
+    padding-top: 50px;
+    text-align: center;
 }

@@ -49,7 +49,8 @@ header('Content-Type: text/html; charset=UTF-8');
                 <span class="icon-bar"></span>
             </button>
             <a href="index.php">
-                <img src="img/argon-logo.png">
+                <img id="logo-1" class="logo" src="img/argon-logo.png">
+                <img id="logo-2" class="logo" src="img/argon-logo-2.png">
             </a>
         </div>
 
@@ -225,7 +226,9 @@ header('Content-Type: text/html; charset=UTF-8');
                         <div class="img-wrapper">
                             <img src="img/cards/escobillas/default-card-2.png" alt="Just Background">
                         </div>
-                        <input type="button" value="Agregar" class="btn btn-success btn-sm btn_agregar" onclick="addItem('<?php echo $carbon->letra ?>', 'Escobilla')">
+                        <div style="text-align: right">
+                            <input type="button" value="Agregar" class="btn btn-success btn-sm btn_agregar" onclick="addItem('<?php echo $carbon->letra ?>', 'Escobilla')">
+                        </div>
                         <p class="detail"><?php echo $carbon->descripcion ?></p>
                         <p class="detail-campos"><?php echo $carbon->campos ?></p>
                         <p class="detail-equipo">Eq: <?php echo $carbon->equipo ?></p>

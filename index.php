@@ -48,9 +48,12 @@ header('Content-Type: text/html; charset=UTF-8');
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#page-top">
-                    <img src="img/argon-logo.png">
-                </a>
+                <div id="wraper-logo">
+                    <a href="#page-top">
+                        <img id="logo-1" class="logo" src="img/argon-logo.png">
+                        <img id="logo-2" class="logo" src="img/argon-logo-2.png">
+                    </a>
+                </div>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -195,7 +198,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         <?php foreach($camposFilter as $filters){ ?>
                             <div class="groupfilters">
                                 <?php foreach($filters as $key => $filter){ ?>
-                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?><br />
+                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo strtoupper($filter); ?><br />
                                 <?php } ?>
                             </div>
                         <?php } ?>
@@ -204,7 +207,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         <?php foreach($carbonesFilter as $filters){ ?>
                             <div class="groupfilters">
                                 <?php foreach($filters as $key => $filter){ ?>
-                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo $filter; ?><br />
+                                    <input class="chk-filtros" type="checkbox" name="vehicle" data-filter="<?php echo $key; ?>" value="<?php echo $key; ?>"><?php echo strtoupper($filter); ?><br />
                                 <?php } ?>
                             </div>
                         <?php } ?>
@@ -222,7 +225,7 @@ header('Content-Type: text/html; charset=UTF-8');
                             </div>
                             <p class="detail"><?php echo $campo->descripcion ?></p>
                             <p class="detail-campos"><?php echo $campo->campos ?></p>
-                            <p class="detail-equipo">Eq: <?php echo $campo->equipo ?></p>
+                            <p class="detail-equipo">Eq: <?php echo strtoupper($campo->equipo) ?></p>
                         </div>
                     <?php } ?>
                     <?php foreach($carbones as $carbon){ ?>
@@ -232,8 +235,8 @@ header('Content-Type: text/html; charset=UTF-8');
                                 <img src="img/cards/escobillas/default-card-2.png" alt="Just Background">
                             </div>
                             <p class="detail"><?php echo $carbon->descripcion ?></p>
-                            <p class="detail-campos"><?php echo $carbon->campos ?></p>
-                            <p class="detail-equipo">Eq: <?php echo $carbon->equipo ?></p>
+                            <p class="detail-campos"><?php echo $carbon->voltaje ?> Volts</p>
+                            <p class="detail-equipo">Eq: <?php echo strtoupper($carbon->equipo) ?></p>
                         </div>
                     <?php } ?>
                 </div>
@@ -263,6 +266,9 @@ header('Content-Type: text/html; charset=UTF-8');
                         El apoyo y confianza de nuestros clientes, vuelve con mejor servicio.
                     </p>
                 </div>
+            </div>
+            <div class="row video-wrapper">
+                <video src="video.mp4" width="500" controls></video>
             </div>
         </div>
     </section>

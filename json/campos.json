@@ -2828,7 +2828,7 @@
 		"descripcion":"TOYOTA 2000 PICK-UP 28100-34070",
 		"voltaje":"24 Volts",
 		"campos":"4 Camos",
-		"equipo":"NIPONDENSO",
+		"equipo":"NIPPONDENSO",
 		"img":"default-card"
 	},
 	{
@@ -4036,7 +4036,7 @@
 		"descripcion":"ARRANQUE KIA",
 		"voltaje":"12 volts",
 		"campos":"4 campos",
-		"equipo":"JIUNDAY",
+		"equipo":"HYUNDAI",
 		"img":"default-card"
 	},
 	{
@@ -4044,7 +4044,7 @@
 		"descripcion":"ARRANQUE TOYOTA AUTO ELEVADOR",
 		"voltaje":"24 volts",
 		"campos":"4 campos",
-		"equipo":"Nipondenso",
+		"equipo":"NIPPONDENSO",
 		"img":"default-card"
 	},
 	{
@@ -4124,7 +4124,7 @@
 		"descripcion":"TOYOTA AUTO ELEVADOR",
 		"voltaje":"12 volts",
 		"campos":"",
-		"equipo":"NICOLAS AMATO",
+		"equipo":"NIPPONDENSO",
 		"img":"default-card"
 	},
 	{
@@ -4308,7 +4308,7 @@
 		"descripcion":"MITSUBISHI COLECTIVO VOLKSWAGEN Y MERCEDEZ,VOLVO",
 		"voltaje":"24 VOLTS",
 		"campos":"4 Campos",
-		"equipo":"Nipondenso",
+		"equipo":"NIPPONDENSO",
 		"img":"default-card"
 	},
 	{

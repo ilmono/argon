@@ -142,3 +142,22 @@ function addItem(id, type){
 function delItem(id){
     $('#item-'+id).remove();
 }
+
+function explode(){
+    if($('#logo-1').hasClass("visible")){
+        $('#logo-2').fadeIn();
+        $('#logo-1').fadeOut('slow', function () {
+            $('#logo-2').addClass('visible');
+            $('#logo-1').removeClass('visible');
+        });
+
+    }else{
+        $('#logo-1').fadeIn();
+        $('#logo-2').fadeOut('slow', function () {
+            $('#logo-1').addClass('visible');
+            $('#logo-2').removeClass('visible');
+        });
+    }
+    setTimeout(explode, 8000);
+}
+setTimeout(explode, 8000);

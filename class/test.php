@@ -1,6 +1,6 @@
 <link href="../css/cards.css" rel="stylesheet">
 <?php
-    $json_file = file_get_contents("../campos.csv");
+    $json_file = file_get_contents("../carbones.csv");
     $array = array_map("str_getcsv", explode("\n", $json_file));
     $json = json_decode(json_encode($array));
     $keys = array_shift($json);
