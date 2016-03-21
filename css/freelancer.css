@@ -520,3 +520,28 @@ footer .footer-below {
     padding-top: 50px;
     text-align: center;
 }
+
+.p-search{
+    font-size: 15px;
+    text-align: right;
+    padding-right: 30px;
+}
+
+#search-point{
+    width: 50px;
+    border: medium none;
+    margin: 0px 11px;
+    color: #000;
+}
+
+.buton-search{
+    width: 40px;
+    height: 25px;
+    background-color: rgb(24, 188, 156);
+    border-color: #233140;
+}
+.container-catalogos{
+    float: left;
+    margin-left: 25px;
+    padding-bottom: 15px;
+}

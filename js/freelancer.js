@@ -112,10 +112,20 @@ $(document).ready(function() {
         $grid.isotope({ filter: filterValue });
     });
 
+    $('.p-search').on( 'click', '.filter-now', function() {
+        var filterValue = $('#search-point').val();
+        if(filterValue == ''){
+            filterValue = '*';
+        }else{
+            filterValue = '.' + filterValue.replace(' ', '-').toUpperCase();
+        }
+        $grid.isotope({ filter: filterValue });
+    });
 });
 
 
 /*Custom Fuctions*/
+
 function showandhidePedidos(type){
     if(type === 'show'){
         $('#link-realizar-pedidos').hide();

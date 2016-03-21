@@ -186,6 +186,14 @@ header('Content-Type: text/html; charset=UTF-8');
                     <h2>Productos</h2>
                     <br />
                 </div>
+                <div>
+                    <div class="container-catalogos"><a href="catalogos/campos.pdf" target="_blank"><spam class="glyphicon glyphicon-download-alt"></spam> Catalogo Campos</a></div>
+                    <div class="p-search">
+                        Buscar por Numero: 
+                        <input type="text" id="search-point">
+                        <button class="filter-now glyphicon glyphicon-search buton-search"></button>
+                    </div>
+                </div>
             </div>
             <div class="button-group filter-button-group">
                 <label><input class="btn-filtros" type="radio" name="filter" data-filter="*"> Ver todos </label>
@@ -218,7 +226,7 @@ header('Content-Type: text/html; charset=UTF-8');
             <div id="cards-wrapper">
                 <div class="row grid">
                     <?php foreach($campos as $campo){ ?>
-                        <div class="card grid-item element-item campo <?php echo $campo->filter ?>">
+                        <div class="card grid-item element-item campo <?php echo $campo->filter . ' '. $campo->numero ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $campo->numero ?></div>
                             <div class="img-wrapper">
                                 <img src="img/cards/campos/<?php echo $campo->img ?>.png" alt="Just Background">
@@ -229,7 +237,7 @@ header('Content-Type: text/html; charset=UTF-8');
                         </div>
                     <?php } ?>
                     <?php foreach($carbones as $carbon){ ?>
-                        <div class="card grid-item element-item carbon <?php echo $carbon->filter ?>">
+                        <div class="card grid-item element-item carbon <?php echo $carbon->filter . ' ' . str_replace(' ', '-', $carbon->letra) ?>">
                             <div class="card-number">N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></div>
                             <div class="img-wrapper">
                                 <img src="img/cards/escobillas/default-card-2.png" alt="Just Background">
