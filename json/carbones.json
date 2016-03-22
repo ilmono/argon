@@ -5,7 +5,8 @@
     "cantidad":"4",
     "voltaje":"24",
     "medidas":"9x20x24,5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"ASX9"
   },
   {
     "letra":"ASX 7",
@@ -13,7 +14,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9X20X26",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"ASX 11",
@@ -21,7 +23,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9x20x26",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"ASX11"
   },
   {
     "letra":"ASX 11E",
@@ -29,7 +32,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9x20x26",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"ASX11E"
   },
   {
     "letra":"ASX 21",
@@ -37,7 +41,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8X25X20",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"ASX21"
   },
   {
     "letra":"EX 016\/56",
@@ -45,7 +50,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8X19.05X13",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"EX16-56"
   },
   {
     "letra":"EX 016\/56D",
@@ -53,7 +59,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8X19.05X13",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"FX 5-6",
@@ -61,7 +68,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8,8 X 19,2 X 12,5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"FX 34",
@@ -69,7 +77,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8,8 X 19,2 X 12,5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"FX 40",
@@ -77,7 +86,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8,8 X 19,2 X 13",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"LASX 43 46",
@@ -85,7 +95,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10.3\/4.7x13.3x17.5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-46"
   },
   {
     "letra":"LASX40-41A",
@@ -93,7 +104,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9,5\/3,5x11.6x15.9",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX40-41"
   },
   {
     "letra":"LASX 43",
@@ -101,7 +113,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10,3\/4,7X13,3X17,5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43"
   },
   {
     "letra":"LASX 43-48",
@@ -109,7 +122,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10.3\/4.7x13.3x17.5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-48"
   },
   {
     "letra":"LASX 43-44",
@@ -117,7 +131,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10.3\/4.7x13.3x17.5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-44D"
   },
   {
     "letra":"LASX 36",
@@ -125,7 +140,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9x20x24,5",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX36"
   },
   {
     "letra":"LASX 40-41",
@@ -133,7 +149,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9,5\/3,5x11.6x15.9",
-    "equipo":"LUCAS - PRESTOLITE - INDIEL"
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX40-41"
   },
   {
     "letra":"LASX 91-92",
@@ -141,7 +158,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9x20x24,5",
-    "equipo":"WAPSA-INDIEL"
+    "equipo":"WAPSA-INDIEL",
+    "img":"LASX91-92"
   },
   {
     "letra":"213\/13",
@@ -149,7 +167,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8X19.05X22",
-    "equipo":"WAPSA-INDIEL"
+    "equipo":"WAPSA-INDIEL",
+    "img":"21313"
   },
   {
     "letra":"213\/09",
@@ -157,7 +176,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8X19.05X13",
-    "equipo":"WAPSA-INDIEL"
+    "equipo":"WAPSA-INDIEL",
+    "img":"default-card-2"
   },
   {
     "letra":"BSX 75",
@@ -165,7 +185,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"7X10X18",
-    "equipo":"BOSCH"
+    "equipo":"BOSCH",
+    "img":"BSX75"
   },
   {
     "letra":"BSX433-729",
@@ -173,7 +194,8 @@
     "cantidad":"4",
     "voltaje":"12*24",
     "medidas":"10x22,2x23,5",
-    "equipo":"BOSCH"
+    "equipo":"BOSCH",
+    "img":"BSX433-729"
   },
   {
     "letra":"BSX 6-7",
@@ -181,7 +203,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10x22,2x23,5",
-    "equipo":"BOSCH"
+    "equipo":"BOSCH",
+    "img":"BSX6-7"
   },
   {
     "letra":"USX 21-22",
@@ -189,7 +212,8 @@
     "cantidad":"2",
     "voltaje":"12",
     "medidas":"8x15x15",
-    "equipo":"INDIEL-GAREF-DUCELLIER"
+    "equipo":"INDIEL-GAREF-DUCELLIER",
+    "img":"USX21-22"
   },
   {
     "letra":"USX21-22C\/T",
@@ -197,7 +221,8 @@
     "cantidad":"2",
     "voltaje":"12",
     "medidas":"8x15x15",
-    "equipo":"INDIEL-GAREF-DUCELLIER"
+    "equipo":"INDIEL-GAREF-DUCELLIER",
+    "img":"USX21-22CT"
   },
   {
     "letra":"USX 59 60",
@@ -205,7 +230,8 @@
     "cantidad":"2",
     "voltaje":"12",
     "medidas":"8X15X15",
-    "equipo":"CHRYSLER-TRIA"
+    "equipo":"CHRYSLER-TRIA",
+    "img":"default-card-2"
   },
   {
     "letra":"USX 60-21",
@@ -213,7 +239,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8x15x15",
-    "equipo":"CHRYSLER-TRIA"
+    "equipo":"CHRYSLER-TRIA",
+    "img":"USX60-21"
   },
   {
     "letra":"MAX 341",
@@ -221,7 +248,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8,2x19x18",
-    "equipo":"CHRYSLER-TRIA"
+    "equipo":"CHRYSLER-TRIA",
+    "img":"MASX341"
   },
   {
     "letra":"JSX 31-32",
@@ -229,7 +257,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8,2x19x18",
-    "equipo":"CHRYSLER-TRIA"
+    "equipo":"CHRYSLER-TRIA",
+    "img":"JSX31-32"
   },
   {
     "letra":"3 STAR",
@@ -237,7 +266,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8X19.05X13",
-    "equipo":"CHRYSLER-TRIA"
+    "equipo":"CHRYSLER-TRIA",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 29-30",
@@ -245,7 +275,8 @@
     "cantidad":"2",
     "voltaje":"12",
     "medidas":"6 X 13 X 17",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 147D",
@@ -253,7 +284,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"6 X 13 X 17",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 35-36",
@@ -261,7 +293,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"7 x 13 x 17.5",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"JSX35-36"
   },
   {
     "letra":"JSX 35-36(3)",
@@ -269,7 +302,8 @@
     "cantidad":"3",
     "voltaje":"12",
     "medidas":"7 x 13 x 17.5",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 35-36E",
@@ -277,7 +311,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"7 x 13 x 17.5",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 35-37",
@@ -285,7 +320,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"7 x 13 x 17.5",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 21-22",
@@ -293,7 +329,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"6 X 13 X 17",
-    "equipo":"FIAT - MARELLI"
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
   },
   {
     "letra":"PSX 140-141",
@@ -301,7 +338,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"9 X 18 X 22",
-    "equipo":"PARIS RHONE - VALEO"
+    "equipo":"PARIS RHONE - VALEO",
+    "img":"PSX140-141"
   },
   {
     "letra":"FNSX 6-7",
@@ -309,7 +347,8 @@
     "cantidad":"4",
     "voltaje":"24",
     "medidas":"8 X 25 X 19",
-    "equipo":"DELCO - REMY"
+    "equipo":"DELCO - REMY",
+    "img":"FNSX6-7"
   },
   {
     "letra":"DX 157 S\/T",
@@ -317,7 +356,8 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8 X 25 X 20",
-    "equipo":"DELCO - REMY"
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
   },
   {
     "letra":"DX 419-420",
@@ -325,7 +365,8 @@
     "cantidad":"4",
     "voltaje":"24",
     "medidas":"8 X 25 X 21",
-    "equipo":"DELCO - REMY"
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
   },
   {
     "letra":"DX 157-158",
@@ -333,6 +374,7 @@
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8 X 25 X 20",
-    "equipo":"DELCO - REMY"
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
   }
 ]

@@ -232,7 +232,7 @@ header('Content-Type: text/html; charset=UTF-8');
                     <div class="card grid-item element-item carbon <?php echo $carbon->filter . ' ' . str_replace(' ', '-', $carbon->letra) ?>">
                         <div class="card-number">N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></div>
                         <div class="img-wrapper">
-                            <img src="img/cards/escobillas/default-card-2.png" alt="Just Background">
+                            <img src="img/cards/escobillas/<?php echo $carbon->img ?>.png" alt="Just Background">
                         </div>
                         <div style="text-align: right">
                             <input type="button" value="Agregar" class="btn btn-success btn-sm btn_agregar" onclick="addItem('<?php echo $carbon->letra ?>', 'Escobilla')">
