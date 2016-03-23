@@ -1,4 +1,4 @@
-<title>Campos ARGON - Catalogo Campos</title>
+<title>Campos ARGON - Catalogo Escobillas</title>
 <link href="../css/cards.css" rel="stylesheet">
 <?php
 function makeArrayKeys($arrayProducts){
@@ -47,7 +47,9 @@ $carbonesFilter = $tmp['keys'];
     <td>Numero</td>
     <td>Imagen</td>
     <td>Descripcion</td>
-    <td>Campos</td>
+    <td>Voltaje</td>
+    <td>Medidas</td>
+    <td>Cantidad</td>
     <td>Equipo</td>
 </tr>
 <?php foreach($carbones as $carbon){ ?>
@@ -56,6 +58,8 @@ $carbonesFilter = $tmp['keys'];
         <td><img src="../img/cards/escobillas/<?php echo $carbon->img ?>.png" alt="Just Background"></td>
         <td><?php echo $carbon->descripcion ?></td>
         <td><?php echo $carbon->voltaje ?> Volts</td>
+        <td><?php echo $carbon->medidas ?></td>
+        <td><?php echo $carbon->cantidad ?></td>
         <td><?php echo strtoupper($carbon->equipo) ?></td>
     </tr>
 <?php } ?>

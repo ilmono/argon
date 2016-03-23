@@ -177,7 +177,10 @@ header('Content-Type: text/html; charset=UTF-8');
             </div>
         </div>
         <div>
-            <div class="container-catalogos"><a href="catalogos/campos.pdf" target="_blank"><spam class="glyphicon glyphicon-download-alt"></spam> Catalogo Campos</a></div>
+            <div class="container-catalogos">
+                        <a href="catalogos/campos.pdf" target="_blank"><spam class="glyphicon glyphicon-download-alt"></spam> Catalogo Campos</a> | 
+                        <a href="catalogos/escobillas.pdf" target="_blank"><spam class="glyphicon glyphicon-download-alt"></spam> Catalogo Escobillas</a>
+                    </div>
             <div class="p-search">
                 Buscar por Numero: 
                 <input type="text" id="search-point">
@@ -238,8 +241,12 @@ header('Content-Type: text/html; charset=UTF-8');
                             <input type="button" value="Agregar" class="btn btn-success btn-sm btn_agregar" onclick="addItem('<?php echo $carbon->letra ?>', 'Escobilla')">
                         </div>
                         <p class="detail"><?php echo $carbon->descripcion ?></p>
-                        <p class="detail-campos"><?php echo $carbon->campos ?></p>
-                        <p class="detail-equipo">Eq: <?php echo $carbon->equipo ?></p>
+                        <p class="detail-campos">
+                            Voltaje: <?php echo $carbon->voltaje ?> Volts <br /> 
+                            Medidas: <?php echo $carbon->medidas ?><br /> 
+                            Cantidad: <?php echo $carbon->cantidad ?>
+                        </p>
+                        <p class="detail-equipo">Eq: <?php echo strtoupper($carbon->equipo) ?></p>
                     </div>
                 <?php } ?>
             </div>

@@ -14,7 +14,7 @@ $(function() {
             var name = $("input#name").val();
             var email = $("input#email").val();
             var phone = $("input#phone").val();
-            var message = '';
+            var message = '<table border=1>';
             message +='<tr><td>Producto</td><td>Cantidad</td></tr>';
 
             $('.item-list').each(function(){

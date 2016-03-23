@@ -50,13 +50,13 @@ $carbonesFilter = $tmp['keys'];
     <td>Campos</td>
     <td>Equipo</td>
 </tr>
-<?php foreach($carbones as $carbon){ ?>
+<?php foreach($campos as $campo){ ?>
     <tr>
-        <td>N&deg; AR&#8226;GON: <?php echo $carbon->letra ?></td>
-        <td><img src="img/cards/escobillas/<?php echo $carbon->img ?>.png" alt="Just Background"></td>
-        <td><?php echo $carbon->descripcion ?></td>
-        <td><?php echo $carbon->voltaje ?> Volts</td>
-        <td><?php echo strtoupper($carbon->equipo) ?></td>
+        <td>N&deg; AR&#8226;GON: <?php echo $campo->numero ?></td>
+        <td><img src="../img/cards/campos/<?php echo $campo->img ?>.png" alt="Just Background"></td>
+        <td><?php echo $campo->descripcion ?></td>
+        <td><?php echo $campo->campos ?></td>
+        <td><?php echo strtoupper($campo->equipo) ?></td>
     </tr>
 <?php } ?>
 </table>
