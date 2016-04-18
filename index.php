@@ -235,7 +235,7 @@ header('Content-Type: text/html; charset=UTF-8');
                                 <img src="img/cards/campos/<?php echo $campo->img ?>.png" alt="Just Background">
                             </div>
                             <p class="detail"><?php echo $campo->descripcion ?></p>
-                            <p class="detail-campos"><?php echo $campo->descripcion ?></p>
+                            <p class="detail-campos"><?php echo $campo->campos ?></p>
                             <p class="detail-equipo">Eq: <?php echo strtoupper($campo->equipo) ?></p>
                         </div>
                     <?php } ?>
@@ -281,10 +281,36 @@ header('Content-Type: text/html; charset=UTF-8');
                         El apoyo y confianza de nuestros clientes, vuelve con mejor servicio.
                     </p>
                 </div>
+                <div class="row video-wrapper">
+                    <video src="video.mp4" width="500" controls></video>
+                </div>
+                <hr style="width: 70%;" />
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p>
+                        Estimados Clientes, es de nuestro agrado presentarles el catálogo de carbones de nuestra fabricación.
+                    </p>
+                    <p>
+                        Nuestro producto esta elaborado con tecnología de última generación , y materias primas importadas con la mayor calidad internacional.
+                    </p>
+                    <p>
+                        Nos es grato anunciar que a raíz de vuestra inestimable colaboración y esencial apoyo, estamos desarrollando nuevas líneas de carbones que en breve agregaremos a nuestros catálogos.
+                    </p>
+                    
+                </div>
+                <div class="row video-wrapper">
+                    <img style="width: 450px;" src="img/SAM_0175.JPG">
+                </div>
+                <hr style="width: 70%;" />
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p><b>
+                        IMPORTANTE
+                    </b></p>
+                    <p>
+                        Entrando en nuestro cátalogo de productos podrán bajar e imprimir nuestros catálogos además podrán realizar su pedido de compra por ese medio haciendo mas ágil y segura nuestra atención.
+                    </p>
+                </div>
             </div>
-            <div class="row video-wrapper">
-                <video src="video.mp4" width="500" controls></video>
-            </div>
+            
         </div>
     </section>
 

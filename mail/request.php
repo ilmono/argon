@@ -10,8 +10,7 @@ if(empty($_POST['name'])  		||
     return false;
 }
 
-//$para = 'mgrusconi@gmail.com';
-$para = 'info@massanet.com.ar';
+$para = 'camposargon@hotmail.com';
 $titulo = 'Pedido ON-Line - Campos Argon';
 $mensaje = '<html><body>';
 $mensaje .= '<h1>Pedido ON-Line - Campos Argon</h1>';

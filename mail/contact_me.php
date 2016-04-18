@@ -9,8 +9,7 @@
             return false;
     }
 
-    //$para = 'mgrusconi@gmail.com';
-    $para = 'info@massanet.com.ar';
+    $para = 'camposargon@hotmail.com';
     $titulo = 'Consulta Web - Campos Argon';
     $mensaje = 'Nombre: ' . $_POST['name'] . "\r\n";
     $mensaje .= 'Telefono: ' . $_POST['phone'] . "\r\n";

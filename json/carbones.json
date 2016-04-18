@@ -42,7 +42,7 @@
     "voltaje":"12",
     "medidas":"8X25X20",
     "equipo":"LUCAS - PRESTOLITE - INDIEL",
-    "img":"ASX21"
+    "img":"default-card-2"
   },
   {
     "letra":"EX 016\/56",
@@ -186,7 +186,7 @@
     "voltaje":"12",
     "medidas":"7X10X18",
     "equipo":"BOSCH",
-    "img":"BSX75"
+    "img":"default-card-2"
   },
   {
     "letra":"BSX433-729",
@@ -195,7 +195,7 @@
     "voltaje":"12*24",
     "medidas":"10x22,2x23,5",
     "equipo":"BOSCH",
-    "img":"BSX433-729"
+    "img":"default-card-2"
   },
   {
     "letra":"BSX 6-7",
@@ -204,7 +204,7 @@
     "voltaje":"12",
     "medidas":"10x22,2x23,5",
     "equipo":"BOSCH",
-    "img":"BSX6-7"
+    "img":"default-card-2"
   },
   {
     "letra":"USX 21-22",
@@ -258,7 +258,7 @@
     "voltaje":"12",
     "medidas":"8,2x19x18",
     "equipo":"CHRYSLER-TRIA",
-    "img":"JSX31-32"
+    "img":"default-card-2"
   },
   {
     "letra":"3 STAR",
@@ -294,7 +294,7 @@
     "voltaje":"12",
     "medidas":"7 x 13 x 17.5",
     "equipo":"FIAT - MARELLI",
-    "img":"JSX35-36"
+    "img":"default-card-2"
   },
   {
     "letra":"JSX 35-36(3)",
@@ -339,7 +339,7 @@
     "voltaje":"12",
     "medidas":"9 X 18 X 22",
     "equipo":"PARIS RHONE - VALEO",
-    "img":"PSX140-141"
+    "img":"default-card-2"
   },
   {
     "letra":"FNSX 6-7",
