@@ -1,0 +1,407 @@
+[
+  {
+    "letra":"ASX 7",
+    "descripcion":"Arranque AN 115 – Perkins-Jhon Deere-Ca45c-Ca45d- M.Benz-Th-Croft-Austin-Bedfor-Trafic .Ta15,52,352 Peugeot 504 Diesel-Tractor Jhon Deere.",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9X20X26",
+    "equipo":"C.A.V.",
+    "img":"asx7"
+  },
+  {
+    "letra":"ASX 9",
+    "descripcion":"Arranque AN 115-Ca45 c-Ca45d- M. Benz-Th Croft- Austin-Bedfor- Perkins-Jhon Deere.",
+    "cantidad":"4",
+    "voltaje":"24",
+    "medidas":"9X20X26",
+    "equipo":"C.A.V.",
+    "img":"asx9"
+  },
+  {
+    "letra":"ASX 11",
+    "descripcion":"Arranque AN 115-Lucas Indiel- Bedfor-M.Benz- Perkins-Ca45c- Ca45d.",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9x20x26",
+    "equipo":"INDIEL",
+    "img":"asx11"
+  },
+  {
+    "letra":"ASX 11E",
+    "descripcion":"Arranque AN 115-Lucas Indiel .( especial original)",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9x20x26",
+    "equipo":"INDIEL",
+    "img":"asx11"
+  },
+  {
+    "letra":"ASX 21",
+    "descripcion":"MAXION-FORD CUMMINS M-100",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8X25X21",
+    "equipo":"PRESTOLITE",
+    "img":"asx21"
+  },
+  {
+    "letra":"LASX 36",
+    "descripcion":"Arranque AN 115-Lucas M 50-Ford con Motor MWM. y M50-Camiones Ford F100- F150-F1000- F4000- Perkins 4 cilindros diesel.",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":":9x20x25,5",
+    "equipo":"INDIEL",
+    "img":"lasx36"
+  },
+  {
+    "letra":"LASX40-41",
+    "descripcion":"Arranque Frontal-Ford Sierra- Escort-Renault 9-11- Trafic – Fiat Duna.",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9,5\/3,5x11.6x15.9",
+    "equipo":"INDIEL",
+    "img":"lasx40-41"
+  },
+  {
+    "letra":"LASX40-41A",
+    "descripcion":"Arranque Frontal-Ford Escort-Renault 11-Trafic (giro izquierdo)",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9,5\/3,5x11.6x15.9",
+    "equipo":"INDIEL",
+    "img":"lasx40-41"
+  },
+  {
+    "letra":"LASX 43",
+    "descripcion":"Ford –Taunus- Falcon- Camiones F100-Fiat 125-M.100 frontal (sin terminal).",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10.3\/4.7x13.3x17.5",
+    "equipo":"LUCAS - INDIEL",
+    "img":"lasx43"
+  },
+  {
+    "letra":"LASX 43 46",
+    "descripcion":"IKA-TORINO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10.3\/4.7x13.3x17.5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-46"
+  },
+  {
+    "letra":"EX 016\/56",
+    "descripcion":"LUCAS INDIEL-VALIANT-CHEVROLET-D100-D40-FORD",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8.8X19.05X13",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"EX16-56"
+  },
+  {
+    "letra":"EX 016\/56D",
+    "descripcion":"RASTROJERO-PEUGEOT DIESEL",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8.8X19.05X13",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"FX 5-6",
+    "descripcion":"LUCAS - FORD",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8,8 X 19,2 X 12,5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"FX 34",
+    "descripcion":"LUCAS - FALCON - CHEVROLET 400",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8,8 X 19,2 X 12,5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"FX 40",
+    "descripcion":"LUCAS FORD RANGER",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8,8 X 19,2 X 13",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"LASX 43",
+    "descripcion":"FIAT-TORINO S\/TERMINAL M100 FRONTAL-FORD",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10,3\/4,7X13,3X17,5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43"
+  },
+  {
+    "letra":"LASX 43-48",
+    "descripcion":"FORD FRONTAL NUEVO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10.3\/4.7x13.3x17.5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-48"
+  },
+  {
+    "letra":"LASX 43-44",
+    "descripcion":"FORD FRONTAL CON TERMINAL",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10.3\/4.7x13.3x17.5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX43-44D"
+  },
+  {
+    "letra":"LASX 36",
+    "descripcion":"LUCAS M50",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9x20x24,5",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX36"
+  },
+  {
+    "letra":"LASX 40-41",
+    "descripcion":"INDIEL-RENAULT 11-TRAFIC-FORD SIERRA",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9,5\/3,5x11.6x15.9",
+    "equipo":"LUCAS - PRESTOLITE - INDIEL",
+    "img":"LASX40-41"
+  },
+  {
+    "letra":"LASX 91-92",
+    "descripcion":"FORD F100-F150-F1000-F4000 C\/MOTOR MWM LUCAS PERKINS-M.BENZ",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9x20x24,5",
+    "equipo":"WAPSA-INDIEL",
+    "img":"LASX91-92"
+  },
+  {
+    "letra":"213\/13",
+    "descripcion":"FORD MWM BRASILERO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8.8X19.05X22",
+    "equipo":"WAPSA-INDIEL",
+    "img":"21313"
+  },
+  {
+    "letra":"213\/09",
+    "descripcion":"WAPSA-AGRALE",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8.8X19.05X13",
+    "equipo":"WAPSA-INDIEL",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"BSX 75",
+    "descripcion":"ESCORT1.6-1.8-RENAEULT 9-FIAT 147-QUANTUM-GOL",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"7X10X18",
+    "equipo":"BOSCH",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"BSX433-729",
+    "descripcion":"MERCEDES BENZ BRASILERO",
+    "cantidad":"4",
+    "voltaje":"12*24",
+    "medidas":"10x22,2x23,5",
+    "equipo":"BOSCH",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"BSX 6-7",
+    "descripcion":"MERCEDES BENZ BRASILERO 2 CABLES",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"10x22,2x23,5",
+    "equipo":"BOSCH",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"USX 21-22",
+    "descripcion":"RENAULT 9,12 Y 18-PEUGEOT-CITROEN-FIAT 128-GAREF",
+    "cantidad":"2",
+    "voltaje":"12",
+    "medidas":"8x15x15",
+    "equipo":"INDIEL-GAREF-DUCELLIER",
+    "img":"USX21-22"
+  },
+  {
+    "letra":"USX21-22C\/T",
+    "descripcion":"RENAULT 9,12 Y 18-PEUGEOT-CITROEN-FIAT 128-GAREF",
+    "cantidad":"2",
+    "voltaje":"12",
+    "medidas":"8x15x15",
+    "equipo":"INDIEL-GAREF-DUCELLIER",
+    "img":"USX21-22CT"
+  },
+  {
+    "letra":"USX 59 60",
+    "descripcion":"FIAT-PEUGEOT-DODGE 1500",
+    "cantidad":"2",
+    "voltaje":"12",
+    "medidas":"8X15X15",
+    "equipo":"CHRYSLER-TRIA",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"USX 60-21",
+    "descripcion":"VW CARAT-ESCORT-TRIA",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8x15x15",
+    "equipo":"CHRYSLER-TRIA",
+    "img":"USX60-21"
+  },
+  {
+    "letra":"MAX 341",
+    "descripcion":"ESCOBILLA DE ARRANQUE FIAT DUCATO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8,2x19x18",
+    "equipo":"CHRYSLER-TRIA",
+    "img":"MASX341"
+  },
+  {
+    "letra":"JSX 31-32",
+    "descripcion":"CHEVROLET D 20 MAXIOM",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8,2x19x18",
+    "equipo":"CHRYSLER-TRIA",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"3 STAR",
+    "descripcion":"CAMIONES CHINOS",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8.8X19.05X13",
+    "equipo":"CHRYSLER-TRIA",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 29-30",
+    "descripcion":"FIAT -LANCIA Y-10 -SEAT S1-S3 -OTROS",
+    "cantidad":"2",
+    "voltaje":"12",
+    "medidas":"6 X 13 X 17",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 147D",
+    "descripcion":"UNO -DUNA DIESEL CON REDUCCION FIAT 147 DIESEL",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"6 X 13 X 17",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 35-36",
+    "descripcion":"ESCOBILLA DE ARRANQUE FIAT \/ RENAULT PALIO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"7 x 13 x 17.5",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 35-36(3)",
+    "descripcion":"EQUIPO MAGNETTI MARELLI - EQUIPO LINPLATAFIAT",
+    "cantidad":"3",
+    "voltaje":"12",
+    "medidas":"7 x 13 x 17.5",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 35-36E",
+    "descripcion":"FLEXIBLE 60 MM.",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"7 x 13 x 17.5",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 35-37",
+    "descripcion":"EQUIPO MAGNETTI MARELLI - FIAT PALIO SIENA",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"7 x 13 x 17.5",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"JSX 21-22",
+    "descripcion":"PEUGEOT 306 - FIAT 147 DIESEL - VW PASAT - POLO - ALFA ROMEO",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"6 X 13 X 17",
+    "equipo":"FIAT - MARELLI",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"PSX 140-141",
+    "descripcion":"ESCOBILLA DE ARRANQUE RENAULT TRAFIC",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"9 X 18 X 22",
+    "equipo":"PARIS RHONE - VALEO",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"FNSX 6-7",
+    "descripcion":"TOYOTA DIESEL MT 28-MT 29-SCANIA P93-NISSAN-YANMAR-ISUZU-DATSUN.",
+    "cantidad":"4",
+    "voltaje":"24",
+    "medidas":"8 X 25 X 19",
+    "equipo":"DELCO - REMY",
+    "img":"FNSX6-7"
+  },
+  {
+    "letra":"DX 157 S\/T",
+    "descripcion":"DELCO REMY 29 MT",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8 X 25 X 20",
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"DX 419-420",
+    "descripcion":"DELCO REMY MOTOR TIPO 28 MT - M.BENZ 1115 - MOTOR ELECTRONICO - (PLAQUETA PE 134)",
+    "cantidad":"4",
+    "voltaje":"24",
+    "medidas":"8 X 25 X 21",
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
+  },
+  {
+    "letra":"DX 157-158",
+    "descripcion":"DELCO REMY MOTOR TIPO 28 MT (PLAQUETA PE 133)",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"8 X 25 X 20",
+    "equipo":"DELCO - REMY",
+    "img":"default-card-2"
+  }
+]
