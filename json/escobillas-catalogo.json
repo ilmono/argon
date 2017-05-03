@@ -37,7 +37,7 @@
   },
   {
     "letra":"ASX 21",
-    "descripcion":"MAXION - FORD CUMMINS M - 100",
+    "descripcion":"MAXION - FORD CUMINS M - 100",
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8X25X21",
@@ -80,7 +80,6 @@
     "equipo":"LUCAS - INDIEL",
     "img":"lasx43"
   },
-  #########################################
   {
     "letra":"LASX 43 44",
     "descripcion":"Arranque Frontal - Ford Taunus - Falcon - Camiones F100 (diesel) (con terminal)",
@@ -424,7 +423,7 @@
     "img":"jsx21-22"
   },
   {
-    "letra":"JSX 35 - 35E",
+    "letra":"JSX 35 - 36D",
     "descripcion":"Arranque Fiat - Renault (cable 60 m/m )",
     "cantidad":"4",
     "voltaje":"12",
@@ -439,7 +438,7 @@
     "voltaje":"12",
     "medidas":"7x13x17.5",
     "equipo":"FIAT",
-    "img":"jsx35-36"
+    "img":"jsx35-36-3"
   },
   {
     "letra":"JSX 35 - 36",
@@ -448,14 +447,14 @@
     "voltaje":"12",
     "medidas":"7x13x17.5",
     "equipo":"FIAT",
-    "img":"default"
+    "img":"jsx35-36"
   },
   {
     "letra":"JSX 147D",
     "descripcion":"Arranque Fiat 147 - Diesel.",
     "cantidad":"4",
     "voltaje":"12",
-    "medidas":"7x13x17",
+    "medidas":"6x13x17",
     "equipo":"FIAT",
     "img":"jsx147d"
   },
