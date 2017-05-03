@@ -1,0 +1,47 @@
+.logo img{
+    height: 80px;
+    margin: 15px;
+}
+table {
+    border-collapse: collapse;
+    page-break-inside: auto;
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+tr{
+    page-break-inside:avoid;
+    page-break-after:auto;
+}
+.col-1{
+    width: 130px;
+}
+@media print {
+    .nombre{
+        background-color: #93c47d !important;
+        font-weight: bold;
+        font-size: 14px;
+    }
+}
+.nombre{
+    -webkit-print-color-adjust: exact;
+    background-color: #93c47d;
+    font-weight: bold;
+    font-size: 14px;
+}
+.etiqueta{
+    display: inline-block;
+    font-weight: bold;
+    width: 50px;
+}
+span{
+    font-size: 10px;
+    font-family: "Arial";
+}
+.col-2{
+    width: 92px;
+}
+.img{
+    height: 92px;
+}
