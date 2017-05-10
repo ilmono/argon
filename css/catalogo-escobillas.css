@@ -15,7 +15,7 @@ tr{
     page-break-after:auto;
 }
 .col-1{
-    width: 130px;
+    width: 150px;
 }
 @media print {
     .nombre{
