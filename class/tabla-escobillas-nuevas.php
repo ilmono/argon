@@ -29,7 +29,7 @@ function makeArrayKeys($arrayProducts){
     return array('keys' => $arrayEquipos, 'products' => $arrayProduct);
 }
 
-$json_file = file_get_contents("../json/escobillas-catalogo.json");
+$json_file = file_get_contents("../json/carbones.json");
 $arrayProductsCarbones = json_decode($json_file);
 $tmp = makeArrayKeys($arrayProductsCarbones);
 $carbones = $tmp['products'];
