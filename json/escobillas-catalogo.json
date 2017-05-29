@@ -145,7 +145,7 @@
   },
   {
     "letra":"213 - 9",
-    "descripcion":"Wasap - Agrale",
+    "descripcion":"Wapsa - Agrale",
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8.8x19.05x13",
@@ -172,7 +172,7 @@
   },
   {
     "letra":"USX 21 - 22C\/T",
-    "descripcion":"Renault R6 - R9 - R12 - R18 - AM18 - Peugeot 404 - Citroen - Fiat 128 - Garef (con terminales)",
+    "descripcion":"Renault R6 - R9 - R12 - R18 - AM18 - Peugeot 404 - Citroen - Fiat 128 - Garef <br />(con terminales)",
     "cantidad":"2",
     "voltaje":"12",
     "medidas":"8x15x15",
@@ -244,7 +244,7 @@
   },
   {
     "letra":"BSX 6 - 7",
-    "descripcion":"M.Benz Brasilero - 1316 - 1516 - 2016 - 2216 L - 608 D (2 cables).",
+    "descripcion":"M.Benz Brasilero - 1316 - 1516 - 2016 - 2216 L - 608 D (2 cables sin terminal).",
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"10x22x23.5",
@@ -253,7 +253,7 @@
   },
   {
     "letra":"BSX 17 - 18",
-    "descripcion":"M.Benz Brasilero - J.F. OH - OM 0371 - OF 1215 - 1315 - OH 1316 - 1318 - 1614 - 1620 - 1714 - 1721 - 2138 (con un cable ).",
+    "descripcion":"M.Benz Brasilero - J.F. OH - OM 0371 - OF 1215 - 1315 - OH 1316 - 1318 - 1614 - 1620 - 1714 - 1721 - 2138 (con un cable sin terminal).",
     "cantidad":"4",
     "voltaje":"24",
     "medidas":"10x22x23.5",
@@ -262,7 +262,7 @@
   },
   {
     "letra":"BSX 433 12V",
-    "descripcion":"Camiones y Utilitarios M. Benz 1316 - 1516 - 2016 - 2216 ( On 352 A ) - Omnibus O 364 - 352 - Camiones Toyota - Volskwagen - Tractores Cbt - Caset - Komatsu - Maxion - Cosechadoras .( 2 cables ).",
+    "descripcion":"Camiones y Utilitarios M. Benz 1316 - 1516 - 2016 - 2216 ( On 352 A ) - Omnibus O 364 - 352 - Camiones Toyota - Volskwagen - Tractores Cbt - Caset - Komatsu - Maxion - Cosechadoras .(2 cables sin terminal).",
     "cantidad":"4",
     "voltaje":"12\/24",
     "medidas":"10x22x23.5",
@@ -274,7 +274,7 @@
     "descripcion":"Camiones y Utilitarios - Fiat Diesel 80 - 120 - 140 - Tractores Fiat Alli - MBB OF YOH 1115 - 1315 - O 371 U.(2 cables sin terminales).",
     "cantidad":"4",
     "voltaje":"24",
-    "medidas":"10x22,2x23",
+    "medidas":"10x22x23",
     "equipo":"BOSCH",
     "img":"bsx6-7"
   },
@@ -388,7 +388,7 @@
   },
   {
     "letra":"FNSX 6 - 7 C\/T",
-    "descripcion":"Delco Remy 28 MT - 29MT (salida centro)(con terminal)",
+    "descripcion":"Delco Remy 28 MT - 29MT. Salida centro con terminal",
     "cantidad":"4",
     "voltaje":"24",
     "medidas":"8x25x19",
@@ -397,7 +397,7 @@
   },
   {
     "letra":"DX 157 S\/T",
-    "descripcion":"Delco Remy 29 MT (salida al costado) ",
+    "descripcion":"Delco Remy 29 MT (salida al costado Sin terminal) ",
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8x25x20",
@@ -406,7 +406,7 @@
   },
   {
     "letra":"DX 157 - 158",
-    "descripcion":"Delco Remy Motor tipo 28 MT. Pplaqueta PE 133 (salida al costado con terminal).",
+    "descripcion":"Delco Remy Motor tipo 28 MT. Pplaqueta PE 133 (salida al costado sin terminal).",
     "cantidad":"4",
     "voltaje":"12",
     "medidas":"8x25x20",
@@ -422,7 +422,25 @@
     "equipo":"DELCO - REMY",
     "img":"dx157-ct"
   },
-    {
+  {
+    "letra":"DX 159 12V S\/T",
+    "descripcion":"Toyota Hilux. Salida al costado sin Terminal",
+    "cantidad":"4",
+    "voltaje":"12",
+    "medidas":"7x25x20",
+    "equipo":"Nippondenso",
+    "img":"dx157"
+  },
+  {
+    "letra":"DX 159 24V S\/T",
+    "descripcion":"Toyota Hilux. Salida al costado sin Terminal",
+    "cantidad":"4",
+    "voltaje":"24",
+    "medidas":"7x25x20",
+    "equipo":"Nippondenso",
+    "img":"dx157"
+  },
+  {
     "letra":"JSX 21 - 22",
     "descripcion":"Arranque Fiat 147 - Peugeot 306 - VW Pasat - Polo - Alfa",
     "cantidad":"4",
